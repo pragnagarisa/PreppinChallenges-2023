@@ -1,0 +1,832 @@
+,id,first_name,last_name,Ticker,Sector,Market,Stock Name,Market Cap,Purchase Price,month,file date,Purchase Price Category,Market Cap Category,Rank
+11,12,Ashla,Kerwood,HI,Consumer Durables,NYSE,Hillenbrand Inc,2310000000.0,98467.47,8,01/8/2023,Very High,Large,2.0
+12,13,Penrod,Gorini,SGRP,Miscellaneous,NASDAQ,"SPAR Group, Inc.",21070000.0,72386.78,8,01/8/2023,High,Small,3.0
+19,20,Sula,Killigrew,TSM,Technology,NYSE,Taiwan Semiconductor Manufacturing Company Ltd.,186020000000.0,18267.63,8,01/8/2023,Low,Huge,1.0
+38,39,Tabbi,Midden,GPM,,NYSE,Guggenheim Enhanced Equity Income Fund,392460000.0,49627.77,8,01/8/2023,Medium,Medium,3.0
+61,62,Brigit,Piggford,ESGE,,NASDAQ,iShares MSCI EM ESG Optimized ETF,54380000.0,72167.02,8,01/8/2023,High,Small,4.0
+71,72,Corissa,Ivanaev,AMOV,Public Utilities,NYSE,"America Movil, S.A.B. de C.V.",51950000000.0,74705.70,8,01/8/2023,High,Large,4.0
+73,74,Alphard,Chartman,KBWR,,NASDAQ,PowerShares KBW Regional Banking Portfolio,164430000.0,49979.91,8,01/8/2023,Medium,Medium,1.0
+80,81,Sapphira,Camp,AEHR,Capital Goods,NASDAQ,Aehr Test Systems,79320000.0,46857.85,8,01/8/2023,Medium,Small,4.0
+112,113,Fin,Jollie,ARDC,,NYSE,"Ares Dynamic Credit Allocation Fund, Inc.",378210000.0,99728.76,8,01/8/2023,Very High,Medium,3.0
+144,145,Fidela,Gissing,RRR,Consumer Services,NASDAQ,"Red Rock Resorts, Inc.",2780000000.0,944.38,8,01/8/2023,Low,Large,2.0
+162,163,Korella,Little,FCEL,Miscellaneous,NASDAQ,"FuelCell Energy, Inc.",65530000.0,96915.59,8,01/8/2023,Very High,Small,4.0
+165,166,Faye,Bentley,VRTS,Finance,NASDAQ,"Virtus Investment Partners, Inc.",785490000.0,9051.82,8,01/8/2023,Low,Medium,2.0
+210,211,Britt,Burbudge,SLNO,Health Care,NASDAQ,"Soleno Therapeutics, Inc.",27600000.0,71520.66,8,01/8/2023,High,Small,5.0
+220,221,Kristien,Baldery,IPG,Technology,NYSE,"Interpublic Group of Companies, Inc. (The)",9640000000.0,74769.34,8,01/8/2023,High,Large,2.0
+227,228,Adina,Tiffin,FGB,,NYSE,First Trust Specialty Finance and Financial Opportunities Fund,103460000.0,48542.48,8,01/8/2023,Medium,Medium,5.0
+229,230,Robinetta,Eilhersen,RDUS,Health Care,NASDAQ,"Radius Health, Inc.",1770000000.0,9420.91,8,01/8/2023,Low,Large,3.0
+231,232,Mignonne,Cantrell,CVX,Energy,NYSE,Chevron Corporation,205280000000.0,13896.74,8,01/8/2023,Low,Huge,2.0
+242,243,Avigdor,Ramsby,PFI,,NASDAQ,PowerShares DWA Financial Momentum Portfolio,78450000.0,47030.96,8,01/8/2023,Medium,Small,3.0
+263,264,Mathian,O'Lenane,AKER,Health Care,NASDAQ,Akers Biosciences Inc,11120000.0,74400.39,8,01/8/2023,High,Small,2.0
+271,272,Caldwell,Gask,JNJ,Health Care,NYSE,Johnson & Johnson,361920000000.0,65338.79,8,01/8/2023,High,Huge,2.0
+272,273,Pate,Rainville,URRE,Basic Industries,NASDAQ,"Uranium Resources, Inc.",34590000.0,96094.60,8,01/8/2023,Very High,Small,5.0
+278,279,Consolata,Le Fleming,GIII,Consumer Non-Durables,NASDAQ,"G-III Apparel Group, LTD.",1230000000.0,9897.40,8,01/8/2023,Low,Large,1.0
+285,286,Justis,Darke,BPY,Finance,NYSE,Brookfield Property Partners L.P.,5910000000.0,97134.54,8,01/8/2023,Very High,Large,4.0
+303,304,Lucia,Coldbath,SGY,Energy,NYSE,Stone Energy Corporation,470400000.0,850.51,8,01/8/2023,Low,Medium,4.0
+318,319,Drake,Baccas,TIL,Finance,NASDAQ,Till Capital Ltd.,13150000.0,74684.52,8,01/8/2023,High,Small,1.0
+387,388,Pen,Lambert-Ciorwyn,BSL,,NYSE,Blackstone GSO Senior Floating Rate Term Fund,271310000.0,8579.93,8,01/8/2023,Low,Medium,3.0
+395,396,Anderea,Caramuscia,KEM,Capital Goods,NYSE,Kemet Corporation,651310000.0,99911.79,8,01/8/2023,Very High,Medium,1.0
+400,401,Benedetta,Bartomeu,KOSS,Consumer Non-Durables,NASDAQ,Koss Corporation,14100000.0,47984.29,8,01/8/2023,Medium,Small,2.0
+413,414,Phillip,Norwell,PSL,,NASDAQ,PowerShares DWA Consumer Staples Momentum Portfolio,78330000.0,49205.79,8,01/8/2023,Medium,Small,1.0
+435,436,Tressa,Frend,ERF,Energy,NYSE,Enerplus Corporation,1950000000.0,74734.78,8,01/8/2023,High,Large,3.0
+451,452,Lida,Fletcher,ULTI,Technology,NASDAQ,"The Ultimate Software Group, Inc.",6350000000.0,49125.24,8,01/8/2023,Medium,Large,4.0
+465,466,Derby,Havile,GG,Basic Industries,NYSE,Goldcorp Inc.,11220000000.0,74783.80,8,01/8/2023,High,Large,1.0
+466,467,Georgeanna,Dadson,FPRX,Health Care,NASDAQ,"Five Prime Therapeutics, Inc.",809460000.0,49494.77,8,01/8/2023,Medium,Medium,4.0
+494,495,Tucky,Petto,LMIA,Capital Goods,NASDAQ,"LMI Aerospace, Inc.",191030000.0,49902.73,8,01/8/2023,Medium,Medium,2.0
+521,522,Benedetto,Braganca,GOOG,Technology,NASDAQ,Alphabet Inc.,650090000000.0,66206.88,8,01/8/2023,High,Huge,1.0
+545,546,Orsa,Leroux,PNF,,NYSE,PIMCO New York Municipal Income Fund,99420000.0,9945.99,8,01/8/2023,Low,Small,1.0
+558,559,Jenica,Garlette,TENX,Health Care,NASDAQ,"Tenax Therapeutics, Inc.",14890000.0,6777.64,8,01/8/2023,Low,Small,4.0
+565,566,Layla,Landall,HONE,Finance,NASDAQ,"HarborOne Bancorp, Inc.",655590000.0,72839.67,8,01/8/2023,High,Medium,2.0
+576,577,Merry,Berrey,FEUZ,,NASDAQ,First Trust Eurozone AlphaDEX ETF,9760000.0,7886.40,8,01/8/2023,Low,Small,2.0
+582,583,Pancho,Kondratyuk,APPF,Technology,NASDAQ,"AppFolio, Inc.",1080000000.0,49842.73,8,01/8/2023,Medium,Large,1.0
+612,613,Claybourne,Dutnell,ADUS,Health Care,NASDAQ,Addus HomeCare Corporation,424110000.0,9991.70,8,01/8/2023,Low,Medium,1.0
+614,615,Aron,Brotherhood,HFBL,Finance,NASDAQ,"Home Federal Bancorp, Inc. of Louisiana",48460000.0,99258.91,8,01/8/2023,Very High,Small,1.0
+622,623,Mylo,Jorio,BSL,,NYSE,Blackstone GSO Senior Floating Rate Term Fund,271310000.0,72701.83,8,01/8/2023,High,Medium,3.0
+624,625,Larine,Ashe,PHD,,NYSE,Pioneer Floating Rate Trust,293390000.0,71810.27,8,01/8/2023,High,Medium,5.0
+661,662,Gusty,Duggon,MTOR,Capital Goods,NYSE,"Meritor, Inc.",1410000000.0,98657.98,8,01/8/2023,Very High,Large,1.0
+665,666,Vicki,Thripp,BGX,,NYSE,Blackstone GSO Long Short Credit Income Fund,207430000.0,98834.66,8,01/8/2023,Very High,Medium,5.0
+672,673,Kip,Fagge,INOV,Technology,NASDAQ,"Inovalon Holdings, Inc.",1990000000.0,9010.38,8,01/8/2023,Low,Large,4.0
+680,681,Julina,Stut,UEIC,Consumer Non-Durables,NASDAQ,Universal Electronics Inc.,959070000.0,8375.61,8,01/8/2023,Low,Medium,5.0
+694,695,Gaston,Kettlesting,BRKR,Capital Goods,NASDAQ,Bruker Corporation,4430000000.0,49245.38,8,01/8/2023,Medium,Large,3.0
+704,705,Izabel,Gurnett,JWN,Consumer Services,NYSE,"Nordstrom, Inc.",7890000000.0,48812.10,8,01/8/2023,Medium,Large,5.0
+726,727,Judith,Davidai,WMT,Consumer Services,NYSE,"Wal-Mart Stores, Inc.",226810000000.0,62430.20,8,01/8/2023,High,Huge,3.0
+732,733,Serena,Randalston,HD,Consumer Services,NYSE,"Home Depot, Inc. (The)",187270000000.0,95429.11,8,01/8/2023,Very High,Huge,1.0
+735,736,Glynnis,Bunch,VBFC,Finance,NASDAQ,Village Bank and Trust Financial Corp.,44250000.0,97956.95,8,01/8/2023,Very High,Small,3.0
+738,739,Austine,Oris,CLDT,Consumer Services,NYSE,Chatham Lodging Trust (REIT),776550000.0,74196.58,8,01/8/2023,High,Medium,1.0
+747,748,Lorettalorna,Saphin,INFY,Technology,NYSE,Infosys Limited,33530000000.0,96898.17,8,01/8/2023,Very High,Large,5.0
+766,767,Sheelagh,Jeremaes,MWA,Capital Goods,NYSE,MUELLER WATER PRODUCTS,1830000000.0,49246.68,8,01/8/2023,Medium,Large,2.0
+772,773,Sly,Fargher,TGA,Energy,NASDAQ,Transglobe Energy Corp,92420000.0,45874.74,8,01/8/2023,Medium,Small,5.0
+792,793,Ursuline,Tippett,KONE,Technology,NASDAQ,Kingtone Wirelessinfo Solution Holding Ltd,5160000.0,6438.96,8,01/8/2023,Low,Small,5.0
+811,812,Conroy,Bramley,CCM,Health Care,NYSE,Concord Medical Services Holdings Limited,153070000.0,99535.36,8,01/8/2023,Very High,Medium,4.0
+849,850,Nessy,Auston,JRVR,Finance,NASDAQ,"James River Group Holdings, Ltd.",1180000000.0,74618.92,8,01/8/2023,High,Large,5.0
+851,852,Missie,Patient,MFIN,Finance,NASDAQ,Medallion Financial Corp.,55600000.0,6790.53,8,01/8/2023,Low,Small,3.0
+852,853,Goldina,Thunderchief,VCRA,Consumer Durables,NYSE,"Vocera Communications, Inc.",763420000.0,99808.72,8,01/8/2023,Very High,Medium,2.0
+860,861,Miller,Aggett,SR,Public Utilities,NYSE,Spire Inc.,3490000000.0,8302.51,8,01/8/2023,Low,Large,5.0
+925,926,Zeb,Millgate,STPP,Finance,NASDAQ,iPath US Treasury Steepener ETN,3250000.0,98186.87,8,01/8/2023,Very High,Small,2.0
+939,940,Carleen,McKinlay,HON,Capital Goods,NYSE,Honeywell International Inc.,102630000000.0,32373.73,8,01/8/2023,Medium,Huge,1.0
+972,973,Carry,Buff,ONCE,Health Care,NASDAQ,"Spark Therapeutics, Inc.",1820000000.0,98247.23,8,01/8/2023,Very High,Large,3.0
+973,974,Babs,Surcombe,IDRA,Health Care,NASDAQ,"Idera Pharmaceuticals, Inc.",237150000.0,72016.13,8,01/8/2023,High,Medium,4.0
+3,4,Rogerio,Cran,CTHR,Consumer Durables,NASDAQ,Charles & Colvard Ltd,19680000.0,97881.35,9,01/9/2023,Very High,Small,4.0
+54,55,Rusty,LeEstut,PY,,NASDAQ,Principal Shareholder Yield Index ETF,7210000.0,9491.08,9,01/9/2023,Low,Small,2.0
+74,75,Jared,Boam,DWCH,Technology,NASDAQ,Datawatch Corporation,96200000.0,72721.30,9,01/9/2023,High,Small,4.0
+75,76,Maddi,Taber,AVNW,Technology,NASDAQ,"Aviat Networks, Inc.",93710000.0,99898.79,9,01/9/2023,Very High,Small,1.0
+114,115,Aurea,McAuley,MBII,Basic Industries,NASDAQ,"Marrone Bio Innovations, Inc.",32290000.0,8724.64,9,01/9/2023,Low,Small,5.0
+136,137,Dunn,Tewes,TREX,Basic Industries,NYSE,"Trex Company, Inc.",1990000000.0,9888.71,9,01/9/2023,Low,Large,2.0
+138,139,Warden,Worham,FSV,Finance,NASDAQ,FirstService Corporation,2150000000.0,99263.34,9,01/9/2023,Very High,Large,3.0
+171,172,Ollie,Lowers,PAC,Transportation,NYSE,"Grupo Aeroportuario Del Pacifico, S.A. de C.V.",5930000000.0,48934.53,9,01/9/2023,Medium,Large,5.0
+192,193,Ike,Parlot,KLIC,Technology,NASDAQ,"Kulicke and Soffa Industries, Inc.",1460000000.0,99897.54,9,01/9/2023,Very High,Large,2.0
+201,202,Lawry,Charlotte,FBNC,Finance,NASDAQ,First Bancorp,768070000.0,9516.02,9,01/9/2023,Low,Medium,1.0
+202,203,Kimberlee,Condict,VRAY,Health Care,NASDAQ,"ViewRay, Inc.",370120000.0,74986.67,9,01/9/2023,High,Medium,1.0
+217,218,Sheffield,Mumm,CMD,Health Care,NYSE,Cantel Medical Corp.,3170000000.0,9419.56,9,01/9/2023,Low,Large,5.0
+219,220,Zabrina,Casper,EMR,Energy,NYSE,Emerson Electric Company,39110000000.0,49494.66,9,01/9/2023,Medium,Large,1.0
+225,226,Leesa,Liddel,EEQ,Energy,NYSE,Enbridge Energy Management LLC,1270000000.0,48995.54,9,01/9/2023,Medium,Large,3.0
+249,250,Darby,Eisikowitch,NBN,Finance,NASDAQ,Northeast Bancorp,180400000.0,9159.06,9,01/9/2023,Low,Medium,2.0
+256,257,Oralie,Dwyr,NTAP,Technology,NASDAQ,"NetApp, Inc.",10290000000.0,49109.01,9,01/9/2023,Medium,Large,2.0
+291,292,Jude,Napier,HD,Consumer Services,NYSE,"Home Depot, Inc. (The)",187270000000.0,67055.91,9,01/9/2023,High,Huge,2.0
+297,298,Bernelle,Brabant,AEY,Consumer Services,NASDAQ,"ADDvantage Technologies Group, Inc.",16610000.0,73252.86,9,01/9/2023,High,Small,2.0
+307,308,Stella,Andreev,FOMX,Consumer Durables,NASDAQ,Foamix Pharmaceuticals Ltd.,164160000.0,48955.83,9,01/9/2023,Medium,Medium,2.0
+319,320,Paten,Flag,FMCI,Finance,NASDAQ,Forum Merger Corporation,217090000.0,49603.22,9,01/9/2023,Medium,Medium,1.0
+327,328,Murdock,Blemen,GSK,Health Care,NYSE,GlaxoSmithKline PLC,107750000000.0,94009.24,9,01/9/2023,Very High,Huge,1.0
+337,338,Tyrus,Pareman,HSC,Capital Goods,NYSE,Harsco Corporation,1350000000.0,74003.42,9,01/9/2023,High,Large,3.0
+339,340,Sandi,Birkhead,WFC,Finance,NYSE,Wells Fargo & Company,269310000000.0,12409.03,9,01/9/2023,Low,Huge,3.0
+370,371,Mignonne,Daws,AIRT,Transportation,NASDAQ,"Air T, Inc.",38810000.0,46681.40,9,01/9/2023,Medium,Small,3.0
+376,377,Luelle,Veart,UBSH,Finance,NASDAQ,Union Bankshares Corporation,1530000000.0,9578.43,9,01/9/2023,Low,Large,3.0
+393,394,Ikey,Durant,LAND,Consumer Services,NASDAQ,Gladstone Land Corporation,133560000.0,74019.01,9,01/9/2023,High,Medium,3.0
+400,401,Gay,Scotchmore,FTSM,,NASDAQ,First Trust Enhanced Short Maturity ETF,966470000.0,48815.24,9,01/9/2023,Medium,Medium,4.0
+404,405,Ganny,Kusick,MILN,,NASDAQ,Global X Millennials Thematic ETF,4360000.0,97859.67,9,01/9/2023,Very High,Small,5.0
+412,413,Gusella,Ashurst,MPO,Energy,NYSE,"MIDSTATES PETROLEUM COMPANY, INC.",364190000.0,97778.79,9,01/9/2023,Very High,Medium,3.0
+418,419,Kylila,Mirrlees,CPRX,Health Care,NASDAQ,"Catalyst Pharmaceuticals, Inc.",193550000.0,8193.92,9,01/9/2023,Low,Medium,5.0
+469,470,Albertina,Glede,MTX,Basic Industries,NYSE,Minerals Technologies Inc.,2500000000.0,99097.44,9,01/9/2023,Very High,Large,5.0
+470,471,Mickie,Dovinson,GLYC,Health Care,NASDAQ,"GlycoMimetics, Inc.",396210000.0,8931.77,9,01/9/2023,Low,Medium,4.0
+479,480,Ethel,Woodvine,POST,Consumer Non-Durables,NYSE,"Post Holdings, Inc.",5250000000.0,9462.32,9,01/9/2023,Low,Large,4.0
+489,490,Roderich,Guilford,WFC,Finance,NYSE,Wells Fargo & Company,269310000000.0,24028.29,9,01/9/2023,Low,Huge,1.0
+497,498,Clo,Simka,DLNG,Consumer Services,NYSE,Dynagas LNG Partners LP,517440000.00000006,73826.53,9,01/9/2023,High,Medium,5.0
+545,546,Constantine,Maso,BIOP,Health Care,NASDAQ,"Bioptix, Inc",19420000.0,48518.18,9,01/9/2023,Medium,Small,2.0
+552,553,Thaddeus,Kryszkiecicz,SRTS,Health Care,NASDAQ,"Sensus Healthcare, Inc.",52750000.0,45440.72,9,01/9/2023,Medium,Small,4.0
+567,568,Kristyn,Pinhorn,LKFN,Finance,NASDAQ,Lakeland Financial Corporation,1160000000.0,99910.52,9,01/9/2023,Very High,Large,1.0
+587,588,Hansiain,Craggs,TSBK,Finance,NASDAQ,"Timberland Bancorp, Inc.",177780000.0,48621.11,9,01/9/2023,Medium,Medium,5.0
+603,604,Harbert,Tunkin,CMCSA,Consumer Services,NASDAQ,Comcast Corporation,195790000000.0,1022.75,9,01/9/2023,Low,Huge,4.0
+606,607,Hortense,Haddington,AMKR,Technology,NASDAQ,"Amkor Technology, Inc.",2520000000.0,48968.44,9,01/9/2023,Medium,Large,4.0
+608,609,Dollie,Parsonage,GNUS,Consumer Services,NASDAQ,"Genius Brands International, Inc.",21760000.0,9314.05,9,01/9/2023,Low,Small,4.0
+609,610,Creight,Bernat,MLR,Capital Goods,NYSE,"Miller Industries, Inc.",289480000.0,74252.84,9,01/9/2023,High,Medium,2.0
+621,622,Diane-marie,Seamon,NBB,,NYSE,Nuveen Build America Bond Fund,555700000.0,96635.42,9,01/9/2023,Very High,Medium,4.0
+622,623,Corette,Willsmore,OPHC,Finance,NASDAQ,"OptimumBank Holdings, Inc.",2910000.0,72535.21,9,01/9/2023,High,Small,5.0
+680,681,Brewster,Fawcitt,KIO,,NYSE,KKR Income Opportunities Fund,271700000.0,98969.32,9,01/9/2023,Very High,Medium,2.0
+690,691,Niles,MacShane,VZ,Public Utilities,NYSE,Verizon Communications Inc.,190220000000.0,23351.82,9,01/9/2023,Low,Huge,2.0
+703,704,Sergeant,Bernot,MTGEP,Consumer Services,NASDAQ,MTGE Investment Corp.,52000000.0,9787.19,9,01/9/2023,Low,Small,1.0
+718,719,Marni,Louth,CPLA,Consumer Services,NASDAQ,Capella Education Company,1040000000.0,74975.01,9,01/9/2023,High,Large,1.0
+721,722,Kora,Furmedge,XOMA,Health Care,NASDAQ,XOMA Corporation,48400000.0,49899.45,9,01/9/2023,Medium,Small,1.0
+771,772,Christan,Allard,ONCS,Health Care,NASDAQ,OncoSec Medical Incorporated,21800000.0,98784.35,9,01/9/2023,Very High,Small,2.0
+772,773,Deny,Stonehewer,NFLX,Consumer Services,NASDAQ,"Netflix, Inc.",65680000000.00001,9945.86,9,01/9/2023,Low,Large,1.0
+784,785,Keefer,Beneze,BA,Capital Goods,NYSE,Boeing Company (The),118570000000.0,67164.75,9,01/9/2023,High,Huge,1.0
+793,794,Tory,Crichley,KHC,Consumer Non-Durables,NASDAQ,The Kraft Heinz Company,108870000000.0,78750.16,9,01/9/2023,Very High,Huge,2.0
+803,804,Kippie,Massow,FTEO,,NASDAQ,"FRONTEO, Inc.",254840000.0,73963.06,9,01/9/2023,High,Medium,4.0
+805,806,Jilly,Burnet,JUNO,Health Care,NASDAQ,"Juno Therapeutics, Inc.",2470000000.0,73434.46,9,01/9/2023,High,Large,5.0
+836,837,Tessy,Whifen,JHD,,NYSE,Nuveen High Income December 2019 Target Term Fund,277100000.0,99770.29,9,01/9/2023,Very High,Medium,1.0
+853,854,Andeee,Hirsthouse,JYNT,Miscellaneous,NASDAQ,The Joint Corp.,48270000.0,97883.17,9,01/9/2023,Very High,Small,3.0
+871,872,Lea,McGirr,EFII,Technology,NASDAQ,"Electronics for Imaging, Inc.",2300000000.0,73756.89,9,01/9/2023,High,Large,4.0
+875,876,Kelila,Jiricka,PEP,Consumer Non-Durables,NYSE,"Pepsico, Inc.",166930000000.0,63465.25,9,01/9/2023,High,Huge,3.0
+919,920,Jilleen,Alves,LALT,,NASDAQ,PowerShares Multi-Strategy Alternative Portfolio,4460000.0,9481.32,9,01/9/2023,Low,Small,3.0
+944,945,Sibelle,Kubach,SSFN,Finance,NASDAQ,Stewardship Financial Corp,83390000.0,74424.70,9,01/9/2023,High,Small,1.0
+945,946,Blinni,Mellish,HIFR,Consumer Services,NYSE,"InfraREIT, Inc.",873820000.0,9024.92,9,01/9/2023,Low,Medium,3.0
+953,954,Boris,Docharty,DLTH,Consumer Services,NASDAQ,Duluth Holdings Inc.,558540000.0,48944.21,9,01/9/2023,Medium,Medium,3.0
+954,955,Jon,Malicki,YEXT,Technology,NYSE,"Yext, Inc.",1200000000.0,99229.80,9,01/9/2023,Very High,Large,4.0
+964,965,Lion,Dorey,PQ,Energy,NYSE,Petroquest Energy Inc,46900000.0,73110.06,9,01/9/2023,High,Small,3.0
+969,970,Anet,Lyard,FKO,,NASDAQ,First Trust South Korea AlphaDEX Fund,5410000.0,45330.21,9,01/9/2023,Medium,Small,5.0
+984,985,Amos,Meek,FOF,,NYSE,"Cohen & Steers Closed-End Opportunity Fund, Inc.",351000000.0,96261.32,9,01/9/2023,Very High,Medium,5.0
+992,993,Andy,Lacroutz,CPRT,Consumer Durables,NASDAQ,"Copart, Inc.",7200000000.0,74248.21,9,01/9/2023,High,Large,2.0
+1,2,Julee,Runnacles,BPL,Energy,NYSE,Buckeye Partners L.P.,8620000000.0,74395.94,7,01/7/2023,High,Large,2.0
+13,14,Amitie,Mather,CVX,Energy,NYSE,Chevron Corporation,205280000000.0,20087.02,7,01/7/2023,Low,Huge,3.0
+26,27,Adelind,Rohloff,PG,Basic Industries,NYSE,Procter & Gamble Company (The),229320000000.0,55544.98,7,01/7/2023,High,Huge,3.0
+34,35,Uri,Papa,T,Public Utilities,NYSE,AT&T Inc.,239530000000.0,59545.82,7,01/7/2023,High,Huge,1.0
+42,43,Armando,Rollingson,WWE,Consumer Services,NYSE,"World Wrestling Entertainment, Inc.",1600000000.0,48620.09,7,01/7/2023,Medium,Large,4.0
+53,54,Nils,Chamney,JPM,Finance,NYSE,J P Morgan Chase & Co,306180000000.0,25046.55,7,01/7/2023,Medium,Huge,3.0
+81,82,Lennie,Dower,CNNX,Public Utilities,NYSE,Cone Midstream Partners LP,1170000000.0,98211.51,7,01/7/2023,Very High,Large,5.0
+99,100,Giacopo,Philcott,MO,Consumer Non-Durables,NYSE,Altria Group,149280000000.0,6833.44,7,01/7/2023,Low,Huge,2.0
+113,114,Faustine,Mannie,DSU,,NYSE,"Blackrock Debt Strategies Fund, Inc.",717080000.0,9337.01,7,01/7/2023,Low,Medium,4.0
+118,119,Rafaela,Hince,THLD,Health Care,NASDAQ,"Threshold Pharmaceuticals, Inc.",27590000.0,7816.36,7,01/7/2023,Low,Small,5.0
+123,124,Silvia,Whylie,SKIS,Consumer Services,NASDAQ,"Peak Resorts, Inc.",59430000.0,97259.06,7,01/7/2023,Very High,Small,4.0
+148,149,Livia,Rheam,CYRN,Technology,NASDAQ,CYREN Ltd.,80330000.0,9660.84,7,01/7/2023,Low,Small,1.0
+158,159,Baxy,Guilaem,LM,Finance,NYSE,"Legg Mason, Inc.",3810000000.0,855.68,7,01/7/2023,Low,Large,4.0
+187,188,Marietta,Bather,RELL,Consumer Non-Durables,NASDAQ,"Richardson Electronics, Ltd.",75940000.0,67167.98,7,01/7/2023,High,Small,5.0
+193,194,Jolene,Hartil,ICAD,Health Care,NASDAQ,icad inc.,68610000.0,45976.56,7,01/7/2023,Medium,Small,5.0
+214,215,Matthus,Rathmell,PER,Energy,NYSE,SandRidge Permian Trust,150940000.0,99134.55,7,01/7/2023,Very High,Medium,3.0
+236,237,Fran,Skittles,MCA,,NYSE,"Blackrock MuniYield California Insured Fund, Inc.",517809999.99999994,49401.76,7,01/7/2023,Medium,Medium,3.0
+240,241,Marilyn,Jirsa,ERJ,Capital Goods,NYSE,Embraer-Empresa Brasileira de Aeronautica,3450000000.0,49000.27,7,01/7/2023,Medium,Large,3.0
+257,258,Dorris,Schuh,MMC,Finance,NYSE,"Marsh & McLennan Companies, Inc.",41270000000.0,99552.77,7,01/7/2023,Very High,Large,1.0
+267,268,Alfy,McNickle,VEC,Consumer Services,NYSE,"Vectrus, Inc.",340820000.0,74215.39,7,01/7/2023,High,Medium,4.0
+284,285,Gaston,Davidofski,COL,Capital Goods,NYSE,"Rockwell Collins, Inc.",17430000000.0,48555.71,7,01/7/2023,Medium,Large,5.0
+287,288,Michelina,Brame,IPXL,Health Care,NASDAQ,"Impax Laboratories, Inc.",1020000000.0,73831.61,7,01/7/2023,High,Large,3.0
+290,291,Alex,Morrott,GOOGL,Technology,NASDAQ,Alphabet Inc.,663120000000.0,777.75,7,01/7/2023,Low,Huge,1.0
+296,297,Elihu,Kimblen,YY,Technology,NASDAQ,YY Inc.,3060000000.0,49705.78,7,01/7/2023,Medium,Large,1.0
+340,341,Balduin,Harrhy,CDXC,Consumer Durables,NASDAQ,ChromaDex Corporation,153950000.0,49959.02,7,01/7/2023,Medium,Medium,1.0
+343,344,Edie,Meldrum,EGO,Basic Industries,NYSE,Eldorado Gold Corporation,1970000000.0,73819.66,7,01/7/2023,High,Large,4.0
+373,374,Nerty,Snowden,AVIR,Health Care,NASDAQ,"Aviragen Therapeutics, Inc.",20870000.0,96846.60,7,01/7/2023,Very High,Small,5.0
+392,393,Aylmer,Stowers,AMN,Technology,NYSE,AMN Healthcare Services Inc,1730000000.0,73791.51,7,01/7/2023,High,Large,5.0
+394,395,Hymie,Fearnall,CIE,Energy,NYSE,"Cobalt International Energy, Inc.",93340000.0,8160.16,7,01/7/2023,Low,Small,4.0
+408,409,Janna,Cockings,ASIX,Basic Industries,NYSE,AdvanSix Inc.,897420000.0,74236.29,7,01/7/2023,High,Medium,3.0
+416,417,Ruddy,Lourenco,LOW,Consumer Services,NYSE,"Lowe's Companies, Inc.",67370000000.00001,74938.25,7,01/7/2023,High,Large,1.0
+426,427,Briana,Madgin,SP,Consumer Services,NASDAQ,SP Plus Corporation,676910000.0,48915.80,7,01/7/2023,Medium,Medium,5.0
+452,453,Marlo,Dymond,PEG,Public Utilities,NYSE,Public Service Enterprise Group Incorporated,22490000000.0,9693.30,7,01/7/2023,Low,Large,1.0
+463,464,Rosamund,Goosey,SEED,Consumer Non-Durables,NASDAQ,Origin Agritech Limited,32450000.000000004,48603.15,7,01/7/2023,Medium,Small,1.0
+465,466,Coralyn,Bartoshevich,GNMA,,NASDAQ,iShares GNMA Bond ETF,174890000.0,99605.26,7,01/7/2023,Very High,Medium,1.0
+469,470,Mag,Gasking,OFC,Consumer Services,NYSE,Corporate Office Properties Trust,3520000000.0,98696.05,7,01/7/2023,Very High,Large,2.0
+480,481,Balduin,Rigardeau,NCTY,Miscellaneous,NASDAQ,The9 Limited,28190000.0,8201.25,7,01/7/2023,Low,Small,3.0
+506,507,Juli,de Broke,JNJ,Health Care,NYSE,Johnson & Johnson,361920000000.0,49062.01,7,01/7/2023,Medium,Huge,1.0
+516,517,Shelly,Astling,AMRC,Basic Industries,NYSE,"Ameresco, Inc.",308890000.0,49549.41,7,01/7/2023,Medium,Medium,2.0
+540,541,Isak,Jeffray,VONG,,NASDAQ,Vanguard Russell 1000 Growth ETF,1180000000.0,98462.08,7,01/7/2023,Very High,Large,4.0
+548,549,Wolf,Panther,GKOS,Health Care,NYSE,Glaukos Corporation,1390000000.0,49704.57,7,01/7/2023,Medium,Large,2.0
+552,553,Melina,Sydall,CCXI,Health Care,NASDAQ,"ChemoCentryx, Inc.",351670000.0,98401.54,7,01/7/2023,Very High,Medium,5.0
+558,559,Maia,Turtle,DUC,,NYSE,"Duff & Phelps Utility & Corporate Bond Trust, Inc.",254600000.0,9551.57,7,01/7/2023,Low,Medium,2.0
+575,576,Cherie,Reubens,MMM,Health Care,NYSE,3M Company,127360000000.0,91660.76,7,01/7/2023,Very High,Huge,4.0
+577,578,Glyn,Goude,GNVC,Health Care,NASDAQ,"GenVec, Inc.",16350000.000000002,46929.79,7,01/7/2023,Medium,Small,3.0
+584,585,Jena,Mattiazzi,HOTR,Consumer Services,NASDAQ,"Chanticleer Holdings, Inc.",6310000.0,99399.76,7,01/7/2023,Very High,Small,2.0
+587,588,Lazarus,Strewthers,IEUS,,NASDAQ,iShares MSCI Europe Small-Cap ETF,126720000.0,74170.42,7,01/7/2023,High,Medium,5.0
+589,590,Tiler,Abley,TRIL,Health Care,NASDAQ,Trillium Therapeutics Inc.,49000000.0,99022.19,7,01/7/2023,Very High,Small,3.0
+617,618,Barclay,O'Murtagh,CLNS,Consumer Services,NYSE,"Colony NorthStar, Inc.",7930000000.0,8788.66,7,01/7/2023,Low,Large,3.0
+619,620,Wilow,Garrow,AAPL,Technology,NASDAQ,Apple Inc.,741770000000.0,97064.12,7,01/7/2023,Very High,Huge,1.0
+629,630,Muffin,Casel,OBSV,Health Care,NASDAQ,ObsEva SA,161490000.0,74303.37,7,01/7/2023,High,Medium,2.0
+637,638,Frazier,Rammell,GNK,Transportation,NYSE,Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ,323860000.0,9315.24,7,01/7/2023,Low,Medium,5.0
+638,639,Vina,Dossetter,MSBF,Finance,NASDAQ,MSB Financial Corp.,99400000.0,69252.63,7,01/7/2023,High,Small,3.0
+643,644,Wayne,Lawerence,ESG,,NASDAQ,FlexShares STOXX US ESG Impact Index Fund,8610000.0,73317.95,7,01/7/2023,High,Small,2.0
+657,658,Noah,Gritten,MG,Consumer Services,NYSE,Mistras Group Inc,617060000.0,74883.88,7,01/7/2023,High,Medium,1.0
+679,680,Niccolo,Perillo,DWAQ,,NASDAQ,PowerShares DWA NASDAQ Momentum Portfolio,35540000.0,99843.63,7,01/7/2023,Very High,Small,1.0
+701,702,Erroll,Russell,PM,Consumer Non-Durables,NYSE,Philip Morris International Inc,189230000000.0,95224.24,7,01/7/2023,Very High,Huge,3.0
+704,705,Sig,Tipping,BABA,Miscellaneous,NYSE,Alibaba Group Holding Limited,341220000000.0,55867.43,7,01/7/2023,High,Huge,2.0
+740,741,Crawford,Lashmar,ALDR,Health Care,NASDAQ,"Alder BioPharmaceuticals, Inc.",882180000.0,9497.85,7,01/7/2023,Low,Medium,3.0
+741,742,Hyacinthe,Wait,HSBC,Finance,NYSE,HSBC Holdings plc,176430000000.0,95720.42,7,01/7/2023,Very High,Huge,2.0
+773,774,Danica,Lavallin,MBRX,Health Care,NASDAQ,"Moleculin Biotech, Inc.",14380000.0,48281.66,7,01/7/2023,Medium,Small,2.0
+774,775,Ana,O'Keeffe,HD,Consumer Services,NYSE,"Home Depot, Inc. (The)",187270000000.0,37792.97,7,01/7/2023,Medium,Huge,2.0
+786,787,Joanie,Heggadon,GOOGL,Technology,NASDAQ,Alphabet Inc.,663120000000.0,52801.45,7,01/7/2023,High,Huge,5.0
+811,812,Benedicto,Danielovitch,NEU,Basic Industries,NYSE,NewMarket Corporation,5530000000.0,98668.88,7,01/7/2023,Very High,Large,3.0
+823,824,Joshia,Adams,HK,Energy,NYSE,Halcon Resources Corporation,660530000.0,99073.46,7,01/7/2023,Very High,Medium,4.0
+836,837,Nellie,Whitelock,JHG,Finance,NYSE,Janus Henderson Group plc,367060000.0,49000.83,7,01/7/2023,Medium,Medium,4.0
+860,861,Haily,Andreas,MMM,Health Care,NYSE,3M Company,127360000000.0,53387.28,7,01/7/2023,High,Huge,4.0
+873,874,Franklin,Shoosmith,PPSI,Consumer Durables,NASDAQ,"Pioneer Power Solutions, Inc.",56680000.0,67168.20,7,01/7/2023,High,Small,4.0
+905,906,Lizette,Poppleton,LDR,Capital Goods,NYSE,"Landauer, Inc.",513320000.00000006,99523.50,7,01/7/2023,Very High,Medium,2.0
+916,917,Marion,MacKeeg,MTB,Finance,NYSE,M&T Bank Corporation,24880000000.0,8431.51,7,01/7/2023,Low,Large,5.0
+933,934,Mayor,Worsnop,HURN,Consumer Services,NASDAQ,Huron Consulting Group Inc.,935950000.0,9686.00,7,01/7/2023,Low,Medium,1.0
+936,937,Eveleen,Pitsall,LAMR,Consumer Services,NASDAQ,Lamar Advertising Company,7220000000.0,8878.10,7,01/7/2023,Low,Large,2.0
+942,943,Ketty,Eles,AVIR,Health Care,NASDAQ,"Aviragen Therapeutics, Inc.",20870000.0,9193.64,7,01/7/2023,Low,Small,2.0
+953,954,Shalna,End,SITO,Miscellaneous,NASDAQ,"SITO Mobile, Ltd.",71560000.0,74604.41,7,01/7/2023,High,Small,1.0
+987,988,Sander,Degoe,YTEN,Basic Industries,NASDAQ,"Yield10 Bioscience, Inc.",1440000.0,46925.56,7,01/7/2023,Medium,Small,4.0
+6,7,Justen,Eliyahu,KHC,Consumer Non-Durables,NASDAQ,The Kraft Heinz Company,108870000000.0,46371.32,6,01/6/2023,Medium,Huge,1.0
+10,11,Shea,Banville,SCI,Consumer Services,NYSE,Service Corporation International,6050000000.0,48562.55,6,01/6/2023,Medium,Large,5.0
+20,21,Piotr,Melmar,VCRA,Consumer Durables,NYSE,"Vocera Communications, Inc.",763420000.0,48182.78,6,01/6/2023,Medium,Medium,5.0
+22,23,Sheree,Nuscha,TAP,Consumer Non-Durables,NYSE,Molson Coors Brewing  Company,14140000000.0,8517.25,6,01/6/2023,Low,Large,5.0
+26,27,Olympie,Albery,RDUS,Health Care,NASDAQ,"Radius Health, Inc.",1770000000.0,9740.05,6,01/6/2023,Low,Large,1.0
+36,37,Clementia,Walduck,LTRX,Technology,NASDAQ,"Lantronix, Inc.",40450000.0,96750.42,6,01/6/2023,Very High,Small,5.0
+48,49,Cahra,Keatley,FBIO,Health Care,NASDAQ,"Fortress Biotech, Inc.",222970000.0,97961.94,6,01/6/2023,Very High,Medium,5.0
+67,68,Cassandre,Grout,SAP,Technology,NYSE,SAP SE,126800000000.0,82246.47,6,01/6/2023,Very High,Huge,2.0
+79,80,Courtney,Mayo,DAVE,Consumer Services,NASDAQ,"Famous Dave's of America, Inc.",24350000.0,49427.98,6,01/6/2023,Medium,Small,1.0
+102,103,Kathrine,Jentges,FCEL,Miscellaneous,NASDAQ,"FuelCell Energy, Inc.",65530000.0,99071.00,6,01/6/2023,Very High,Small,1.0
+121,122,Herold,Bray,NVET,Health Care,NASDAQ,Nexvet Biopharma plc,79270000.0,8030.70,6,01/6/2023,Low,Small,4.0
+129,130,Rafa,Worsom,AMRK,Basic Industries,NASDAQ,"A-Mark Precious Metals, Inc.",112500000.0,48678.25,6,01/6/2023,Medium,Medium,4.0
+186,187,Nora,de Guise,MOSY,Technology,NASDAQ,"MoSys, Inc.",14150000.0,74191.57,6,01/6/2023,High,Small,1.0
+188,189,Terese,Piwell,ESV,Energy,NYSE,ENSCO plc,1740000000.0,49296.37,6,01/6/2023,Medium,Large,2.0
+217,218,Andros,Legges,TGI,Capital Goods,NYSE,"Triumph Group, Inc.",1580000000.0,74520.13,6,01/6/2023,High,Large,5.0
+237,238,Glynn,Hawken,ACFC,Finance,NASDAQ,Atlantic Coast Financial Corporation,119140000.0,98337.86,6,01/6/2023,Very High,Medium,4.0
+247,248,Essy,Kaysor,SNY,Health Care,NYSE,Sanofi,123340000000.0,62990.84,6,01/6/2023,High,Huge,2.0
+251,252,Nertie,Clewer,CNO,Finance,NYSE,"CNO Financial Group, Inc.",3530000000.0,98661.40,6,01/6/2023,Very High,Large,2.0
+254,255,Reade,Rosewall,TUES,Consumer Services,NASDAQ,Tuesday Morning Corp.,83440000.0,97735.51,6,01/6/2023,Very High,Small,4.0
+265,266,Ola,Moores,SITE,Consumer Non-Durables,NYSE,"SiteOne Landscape Supply, Inc.",1970000000.0,98281.12,6,01/6/2023,Very High,Large,4.0
+271,272,Bartlett,Assante,CHCT,Consumer Services,NYSE,Community Healthcare Trust Incorporated,345190000.0,9990.54,6,01/6/2023,Low,Medium,1.0
+277,278,Chloette,Avey,FTFT,Consumer Non-Durables,NASDAQ,Future FinTech Group Inc.,13090000.0,9863.31,6,01/6/2023,Low,Small,1.0
+279,280,Emili,Greenhowe,ATO,Public Utilities,NYSE,Atmos Energy Corporation,9010000000.0,49960.42,6,01/6/2023,Medium,Large,1.0
+287,288,Rahal,Snawdon,OR,Basic Industries,NYSE,Osisko Gold Royalties Ltd,1280000000.0,74616.51,6,01/6/2023,High,Large,4.0
+296,297,Ethyl,Van der Hoeven,JNJ,Health Care,NYSE,Johnson & Johnson,361920000000.0,63276.99,6,01/6/2023,High,Huge,1.0
+304,305,Isabella,Andrivot,GLNG,Consumer Services,NASDAQ,Golar LNG Limited,2180000000.0,74722.36,6,01/6/2023,High,Large,3.0
+341,342,Port,Ahlf,ITIC,Finance,NASDAQ,Investors Title Company,365710000.0,48805.10,6,01/6/2023,Medium,Medium,3.0
+368,369,Jorge,Spacy,FBZ,,NASDAQ,First Trust Brazil AlphaDEX Fund,25390000.0,47325.13,6,01/6/2023,Medium,Small,4.0
+381,382,Cathi,Dibsdale,IGD,,NYSE,Voya Global Equity Dividend and Premium Opportunity Fund,729050000.0,73485.54,6,01/6/2023,High,Medium,5.0
+407,408,Casie,Nosworthy,SIR,Consumer Services,NASDAQ,Select Income REIT,2210000000.0,98606.66,6,01/6/2023,Very High,Large,3.0
+412,413,Olvan,Rizzelli,UNB,Finance,NASDAQ,"Union Bankshares, Inc.",207260000.0,74574.28,6,01/6/2023,High,Medium,1.0
+414,415,Loria,Vaggers,DXTR,Health Care,NASDAQ,Dextera Surgical Inc.,2970000.0,71473.97,6,01/6/2023,High,Small,5.0
+423,424,Mayer,Briat,NM,Transportation,NYSE,Navios Maritime Holdings Inc.,133530000.0,48957.80,6,01/6/2023,Medium,Medium,2.0
+442,443,Inglebert,Cragoe,PAYC,Technology,NYSE,"Paycom Software, Inc.",4120000000.0,9717.16,6,01/6/2023,Low,Large,2.0
+462,463,Prudy,Maisey,GWB,Finance,NYSE,"Great Western Bancorp, Inc.",2340000000.0,49148.13,6,01/6/2023,Medium,Large,4.0
+470,471,Helaine,Armistead,TSRO,Health Care,NASDAQ,"TESARO, Inc.",7770000000.0,74914.77,6,01/6/2023,High,Large,2.0
+471,472,Ivy,Perks,CASI,Health Care,NASDAQ,"CASI Pharmaceuticals, Inc.",55380000.0,98738.91,6,01/6/2023,Very High,Small,2.0
+484,485,Nevins,McNair,EYES,,NASDAQ,"Second Sight Medical Products, Inc.",62000000.0,71766.77,6,01/6/2023,High,Small,4.0
+490,491,Sarah,Wormell,RA,,NYSE,Brookfield Real Assets Income Fund Inc.,858040000.0,73963.38,6,01/6/2023,High,Medium,4.0
+495,496,Galen,Mougin,VCSH,,NASDAQ,Vanguard Short-Term Corporate Bond ETF,19140000000.0,98089.43,6,01/6/2023,Very High,Large,5.0
+499,500,Augusto,Trebilcock,UNH,Health Care,NYSE,UnitedHealth Group Incorporated,175030000000.0,42275.72,6,01/6/2023,Medium,Huge,2.0
+526,527,Blondell,Stable,ELEC,Finance,NASDAQ,Electrum Special Acquisition Corporation,252500000.0,98733.53,6,01/6/2023,Very High,Medium,1.0
+556,557,Carleen,Scardefield,ORIG,Energy,NASDAQ,Ocean Rig UDW Inc.,13200000.0,72480.61,6,01/6/2023,High,Small,3.0
+570,571,Kameko,Greenway,HTD,,NYSE,John Hancock Tax Advantaged Dividend Income Fund,901610000.0,98596.30,6,01/6/2023,Very High,Medium,2.0
+588,589,Dunstan,Stroulger,VZ,Public Utilities,NYSE,Verizon Communications Inc.,190220000000.0,7682.81,6,01/6/2023,Low,Huge,1.0
+594,595,Wayne,Burnsall,FARM,Consumer Non-Durables,NASDAQ,Farmer Brothers Company,517130000.0,49220.67,6,01/6/2023,Medium,Medium,1.0
+599,600,Meade,Georgiev,BSET,Consumer Durables,NASDAQ,"Bassett Furniture Industries, Incorporated",342510000.0,74480.97,6,01/6/2023,High,Medium,2.0
+656,657,Town,Nockalls,V,Miscellaneous,NYSE,Visa Inc.,217120000000.0,92173.88,6,01/6/2023,Very High,Huge,1.0
+658,659,Giulietta,Hedworth,UBCP,Finance,NASDAQ,"United Bancorp, Inc.",63570000.0,98586.61,6,01/6/2023,Very High,Small,3.0
+682,683,Mayer,Jordine,SBCF,Finance,NASDAQ,Seacoast Banking Corporation of Florida,1070000000.0000001,74931.39,6,01/6/2023,High,Large,1.0
+693,694,Jerrylee,Andrini,SRET,,NASDAQ,Global X SuperDividend REIT ETF,3090000.0,47654.27,6,01/6/2023,Medium,Small,3.0
+730,731,Ferdinande,Collett,APPS,Miscellaneous,NASDAQ,"Digital Turbine, Inc.",69300000.0,8249.57,6,01/6/2023,Low,Small,3.0
+734,735,Langsdon,Cortese,HOS,Consumer Services,NYSE,Hornbeck Offshore Services,97070000.0,48689.45,6,01/6/2023,Medium,Small,2.0
+741,742,Lyda,Cattellion,BNTC,Health Care,NASDAQ,Benitec Biopharma Limited,21440000.0,7934.21,6,01/6/2023,Low,Small,5.0
+742,743,Kristine,Sabater,PRAN,Health Care,NASDAQ,Prana Biotechnology Ltd,18770000.0,47041.11,6,01/6/2023,Medium,Small,5.0
+746,747,Chuck,Hedingham,DIS,Consumer Services,NYSE,Walt Disney Company (The),165110000000.0,14255.13,6,01/6/2023,Low,Huge,2.0
+755,756,Reinold,Cornillot,KRNT,Capital Goods,NASDAQ,Kornit Digital Ltd.,643740000.0,74095.37,6,01/6/2023,High,Medium,3.0
+793,794,Vicky,Aleksankin,CABO,Consumer Services,NYSE,"Cable One, Inc.",4139999999.9999995,49205.43,6,01/6/2023,Medium,Large,3.0
+798,799,Gregorius,Solly,HBK,Finance,NASDAQ,"Hamilton Bancorp, Inc.",49800000.0,73200.09,6,01/6/2023,High,Small,2.0
+800,801,Sonnie,Rourke,SB,Transportation,NYSE,"Safe Bulkers, Inc",236500000.0,9867.60,6,01/6/2023,Low,Medium,2.0
+831,832,Roxine,Andrzejewski,EEP,Energy,NYSE,"Enbridge Energy, L.P.",6760000000.0,9169.74,6,01/6/2023,Low,Large,4.0
+839,840,Jemimah,Corker,MQT,,NYSE,"Blackrock MuniYield Quality Fund II, Inc.",296860000.0,9752.03,6,01/6/2023,Low,Medium,3.0
+854,855,Tamqrah,Dominy,MBTF,Finance,NASDAQ,M B T Financial Corp,229800000.0,9704.87,6,01/6/2023,Low,Medium,4.0
+858,859,Max,Kasper,SGMO,Health Care,NASDAQ,"Sangamo Therapeutics, Inc.",535950000.00000006,98510.78,6,01/6/2023,Very High,Medium,3.0
+885,886,Morse,Hunte,BME,,NYSE,Blackrock Health Sciences Trust,305710000.0,9630.38,6,01/6/2023,Low,Medium,5.0
+930,931,Cariotta,Babber,QUMU,Technology,NASDAQ,Qumu Corporation,29240000.0,8949.48,6,01/6/2023,Low,Small,2.0
+951,952,Libbi,Czajkowski,FCX,Basic Industries,NYSE,"Freeport-McMoran, Inc.",16520000000.0,9459.65,6,01/6/2023,Low,Large,3.0
+992,993,Decca,Vergine,ARES,Finance,NYSE,Ares Management L.P.,3790000000.0,99597.83,6,01/6/2023,Very High,Large,1.0
+0,1,Hadley,Willets,AFMD,Health Care,NASDAQ,Affimed N.V.,87880000.0,99959.38,4,01/4/2023,Very High,Small,1.0
+8,9,Ansell,Sherrell,EGIF,,NYSE,Eagle Growth and Income Opportunities Fund,123200000.0,971.92,4,01/4/2023,Low,Medium,3.0
+26,27,Falkner,Sanson,OTTW,Finance,NASDAQ,"Ottawa Bancorp, Inc.",48540000.0,9168.92,4,01/4/2023,Low,Small,1.0
+38,39,Maddalena,Haysar,PTR,Energy,NYSE,PetroChina Company Limited,116380000000.0,40852.83,4,01/4/2023,Medium,Huge,2.0
+56,57,Ransom,Masters,KONE,Technology,NASDAQ,Kingtone Wirelessinfo Solution Holding Ltd,5160000.0,74999.62,4,01/4/2023,High,Small,1.0
+58,59,Konstance,O' Loughran,FRP,Public Utilities,NASDAQ,"FairPoint Communications, Inc.",423980000.0,99164.81,4,01/4/2023,Very High,Medium,4.0
+68,69,Abigale,Lindermann,USDP,Transportation,NYSE,USD Partners LP,300480000.0,99437.08,4,01/4/2023,Very High,Medium,3.0
+70,71,Monti,Drew,PMPT,,NASDAQ,iSectors Post-MPT Growth ETF,11340000.0,74887.30,4,01/4/2023,High,Small,2.0
+71,72,Shadow,Lintot,LW,Consumer Non-Durables,NYSE,"Lamb Weston Holdings, Inc.",6580000000.0,73947.71,4,01/4/2023,High,Large,4.0
+80,81,Edithe,Fortye,PFBX,Finance,NASDAQ,Peoples Financial Corporation,66090000.0,72675.37,4,01/4/2023,High,Small,5.0
+86,87,Stu,Liddon,CZNC,Finance,NASDAQ,Citizens & Northern Corp,287820000.0,74886.85,4,01/4/2023,High,Medium,2.0
+88,89,Sonia,Mapstone,DGLD,Finance,NASDAQ,VelocityShares 3x Inverse Gold ETN,18660000.0,48531.32,4,01/4/2023,Medium,Small,4.0
+101,102,Nelle,Skeldinge,WMS,Capital Goods,NYSE,"Advanced Drainage Systems, Inc.",1130000000.0,73635.15,4,01/4/2023,High,Large,5.0
+103,104,Aurelea,Mallall,DVCR,Health Care,NASDAQ,Diversicare Healthcare Services Inc.,62000000.0,98059.53,4,01/4/2023,Very High,Small,4.0
+123,124,Tait,Phettis,HTGM,Capital Goods,NASDAQ,"HTG Molecular Diagnostics, Inc.",26860000.0,6459.59,4,01/4/2023,Low,Small,3.0
+176,177,Margarita,Mulholland,KIRK,Consumer Services,NASDAQ,"Kirkland's, Inc.",147550000.0,9847.60,4,01/4/2023,Low,Medium,2.0
+202,203,Tallulah,Patterson,MS,Finance,NYSE,Morgan Stanley,82280000000.0,49108.55,4,01/4/2023,Medium,Large,2.0
+208,209,Judas,Mebes,THO,Consumer Non-Durables,NYSE,"Thor Industries, Inc.",5530000000.0,48034.38,4,01/4/2023,Medium,Large,4.0
+231,232,Christos,McClenaghan,ORCL,Technology,NYSE,Oracle Corporation,185530000000.0,90852.97,4,01/4/2023,Very High,Huge,1.0
+236,237,Eldredge,Eymer,ONVI,Miscellaneous,NASDAQ,"Onvia, Inc.",30650000.0,98193.88,4,01/4/2023,Very High,Small,3.0
+237,238,Orella,Dockreay,RRD,Miscellaneous,NASDAQ,R.R. Donnelley & Sons Company,864500000.0,99982.79,4,01/4/2023,Very High,Medium,1.0
+244,245,Petronia,Moulin,RTTR,Health Care,NASDAQ,"Ritter Pharmaceuticals, Inc.",9140000.0,98807.33,4,01/4/2023,Very High,Small,2.0
+266,267,Lazaro,Imlach,GE,Energy,NYSE,General Electric Company,251830000000.0,79900.69,4,01/4/2023,Very High,Huge,5.0
+269,270,Casandra,Peirazzi,INO,Health Care,NASDAQ,"Inovio Pharmaceuticals, Inc.",585080000.0,49913.33,4,01/4/2023,Medium,Medium,2.0
+329,330,Lorianne,Hantusch,SNY,Health Care,NYSE,Sanofi,123340000000.0,4933.43,4,01/4/2023,Low,Huge,1.0
+342,343,Marga,Rudd,MRK,Health Care,NYSE,"Merck & Company, Inc.",172230000000.0,87754.61,4,01/4/2023,Very High,Huge,2.0
+343,344,Bronson,Chappel,IART,Capital Goods,NASDAQ,Integra LifeSciences Holdings Corporation,3990000000.0,98738.19,4,01/4/2023,Very High,Large,5.0
+357,358,Ursuline,Plom,WEYS,Consumer Non-Durables,NASDAQ,"Weyco Group, Inc.",291310000.0,49986.44,4,01/4/2023,Medium,Medium,1.0
+393,394,Colas,Bemwell,ABT,Health Care,NYSE,Abbott Laboratories,83660000000.0,48477.86,4,01/4/2023,Medium,Large,3.0
+397,398,Law,Roberson,CVX,Energy,NYSE,Chevron Corporation,205280000000.0,29937.46,4,01/4/2023,Medium,Huge,3.0
+427,428,Deena,Harbert,ACBI,Finance,NASDAQ,"Atlantic Capital Bancshares, Inc.",482160000.0,98972.02,4,01/4/2023,Very High,Medium,5.0
+481,482,Adrianna,Headley,DWAT,,NASDAQ,Arrow DWA Tactical ETF,8670000.0,49905.45,4,01/4/2023,Medium,Small,1.0
+485,486,Dorine,Backsal,CMCSA,Consumer Services,NASDAQ,Comcast Corporation,195790000000.0,73906.69,4,01/4/2023,High,Huge,1.0
+503,504,Zach,Ick,JPC,,NYSE,Nuveen Preferred Income Opportunites Fund,999980000.0,74937.80,4,01/4/2023,High,Medium,1.0
+521,522,Niall,Sharpling,PQ,Energy,NYSE,Petroquest Energy Inc,46900000.0,73694.08,4,01/4/2023,High,Small,3.0
+566,567,Winifield,Dallander,TRNO,Finance,NYSE,Terreno Realty Corporation,1630000000.0,99621.04,4,01/4/2023,Very High,Large,2.0
+578,579,Emmy,Tomasutti,KIO,,NYSE,KKR Income Opportunities Fund,271700000.0,9921.75,4,01/4/2023,Low,Medium,1.0
+588,589,Ive,Fitzmaurice,PFIE,Energy,NASDAQ,"Profire Energy, Inc.",63600000.0,6294.48,4,01/4/2023,Low,Small,4.0
+607,608,Thorstein,MacGilfoyle,TWIN,Technology,NASDAQ,"Twin Disc, Incorporated",194790000.0,48749.14,4,01/4/2023,Medium,Medium,3.0
+615,616,Caril,Beckett,MOV,Consumer Non-Durables,NYSE,Movado Group Inc.,512470000.0,47857.51,4,01/4/2023,Medium,Medium,4.0
+616,617,Prentice,Wollers,PRCP,Capital Goods,NASDAQ,"Perceptron, Inc.",68490000.0,8318.01,4,01/4/2023,Low,Small,2.0
+635,636,Gradeigh,Temlett,DGI,Consumer Services,NYSE,"DigitalGlobe, Inc",1960000000.0,99574.64,4,01/4/2023,Very High,Large,3.0
+639,640,Bellanca,Martinyuk,HBIO,Capital Goods,NASDAQ,"Harvard Bioscience, Inc.",86550000.0,48320.17,4,01/4/2023,Medium,Small,5.0
+648,649,Anna-maria,Torritti,HVT,Consumer Services,NYSE,"Haverty Furniture Companies, Inc.",519539999.99999994,9528.08,4,01/4/2023,Low,Medium,5.0
+653,654,Glyn,Pyrke,JHG,Finance,NYSE,Janus Henderson Group plc,367060000.0,47830.43,4,01/4/2023,Medium,Medium,5.0
+658,659,Keenan,Drinkale,SYNA,Technology,NASDAQ,Synaptics Incorporated,1810000000.0,9316.33,4,01/4/2023,Low,Large,3.0
+682,683,Giordano,Skally,FINL,Consumer Services,NASDAQ,"The Finish Line, Inc.",551940000.0,74009.62,4,01/4/2023,High,Medium,4.0
+696,697,Casandra,Gibard,GGG,Capital Goods,NYSE,Graco Inc.,6280000000.0,49492.93,4,01/4/2023,Medium,Large,1.0
+704,705,Margaret,Yakovich,SKX,Consumer Non-Durables,NYSE,"Skechers U.S.A., Inc.",4350000000.0,74495.13,4,01/4/2023,High,Large,1.0
+715,716,Bettine,Burgh,TIG,Health Care,NASDAQ,TiGenix,103100000000.0,85697.37,4,01/4/2023,Very High,Huge,3.0
+718,719,Andras,Toth,CMCSA,Consumer Services,NASDAQ,Comcast Corporation,195790000000.0,81907.58,4,01/4/2023,Very High,Huge,4.0
+737,738,Chrysa,Scini,CADC,Basic Industries,NASDAQ,"China Advanced Construction Materials Group, Inc.",5730000.0,49544.40,4,01/4/2023,Medium,Small,3.0
+740,741,Ethyl,Mollitt,NEOS,Health Care,NASDAQ,"Neos Therapeutics, Inc.",195150000.0,74227.86,4,01/4/2023,High,Medium,3.0
+753,754,Heywood,Govier,ICE,Finance,NYSE,Intercontinental Exchange Inc.,38230000000.0,9906.27,4,01/4/2023,Low,Large,1.0
+769,770,Aubine,Aubin,PFE,Health Care,NYSE,"Pfizer, Inc.",196760000000.0,72346.96,4,01/4/2023,High,Huge,2.0
+777,778,Abran,Semens,FIT,Technology,NYSE,"Fitbit, Inc.",1160000000.0,74355.04,4,01/4/2023,High,Large,3.0
+793,794,Ninon,Ponsford,DRE,Consumer Services,NYSE,Duke Realty Corporation,10250000000.0,9092.47,4,01/4/2023,Low,Large,5.0
+799,800,Silvana,Pinches,SBGL,Basic Industries,NYSE,Sibanye Gold Limited,2550000000.0,74409.16,4,01/4/2023,High,Large,2.0
+814,815,Brendin,Scholer,BA,Capital Goods,NYSE,Boeing Company (The),118570000000.0,48273.04,4,01/4/2023,Medium,Huge,1.0
+824,825,Roberta,Caunter,SBRAP,Consumer Services,NASDAQ,"Sabra Healthcare REIT, Inc.",146630000.0,99611.62,4,01/4/2023,Very High,Medium,2.0
+884,885,Ginnifer,Lukins,PFIS,Finance,NASDAQ,Peoples Financial Services Corp. ,325510000.0,966.00,4,01/4/2023,Low,Medium,4.0
+896,897,Cecilia,Dunstan,FL,Consumer Services,NYSE,"Foot Locker, Inc.",6830000000.0,98942.99,4,01/4/2023,Very High,Large,4.0
+904,905,Wesley,Went,NTIC,Capital Goods,NASDAQ,Northern Technologies International Corporation,73300000.0,49660.59,4,01/4/2023,Medium,Small,2.0
+913,914,Hinze,Attkins,SNPS,Technology,NASDAQ,"Synopsys, Inc.",11090000000.0,99646.50,4,01/4/2023,Very High,Large,1.0
+920,921,Harley,Ibotson,VVI,Miscellaneous,NYSE,Viad Corp,940530000.0,72829.95,4,01/4/2023,High,Medium,5.0
+924,925,Josy,Goldhawk,SFR,Consumer Services,NYSE,Colony Starwood Homes,4370000000.0,9546.69,4,01/4/2023,Low,Large,2.0
+944,945,Glyn,Shankland,AET,Health Care,NYSE,Aetna Inc.,49950000000.0,9096.94,4,01/4/2023,Low,Large,4.0
+954,955,Kristan,Bloan,ARLZ,Health Care,NASDAQ,Aralez Pharmaceuticals Inc.,79480000.0,97660.24,4,01/4/2023,Very High,Small,5.0
+959,960,Edmund,Disley,AAV,Energy,NYSE,Advantage Oil & Gas Ltd,1150000000.0,47877.61,4,01/4/2023,Medium,Large,5.0
+964,965,Mersey,Chevolleau,CLWT,Consumer Durables,NASDAQ,Euro Tech Holdings Company Limited,6080000.0,596.81,4,01/4/2023,Low,Small,5.0
+995,996,Cletus,Joseff,TLF,Consumer Non-Durables,NASDAQ,"Tandy Leather Factory, Inc.",76520000.0,72741.97,4,01/4/2023,High,Small,4.0
+3,4,Verney,Giacobillo,MMM,Health Care,NYSE,3M Company,127360000000.0,96110.73,5,01/5/2023,Very High,Huge,1.0
+12,13,Ellyn,Worner,IPDN,Technology,NASDAQ,"Professional Diversity Network, Inc.",31400000.0,74320.88,5,01/5/2023,High,Small,1.0
+18,19,Gawen,Clayson,KMPR,Finance,NYSE,Kemper Corporation,2049999999.9999998,49657.62,5,01/5/2023,Medium,Large,4.0
+19,20,Valle,Dome,KB,Finance,NYSE,KB Financial Group Inc,19260000000.0,49949.66,5,01/5/2023,Medium,Large,2.0
+45,46,Filippa,McGillacoell,FLN,,NASDAQ,First Trust Latin America AlphaDEX Fund,35140000.0,97059.76,5,01/5/2023,Very High,Small,3.0
+93,94,Richard,Eaves,MMM,Health Care,NYSE,3M Company,127360000000.0,60479.11,5,01/5/2023,High,Huge,3.0
+150,151,Quinlan,Bernardy,CAA,Capital Goods,NYSE,"CalAtlantic Group, Inc.",3960000000.0,9902.33,5,01/5/2023,Low,Large,1.0
+157,158,Charlie,Ferry,RSG,Public Utilities,NYSE,"Republic Services, Inc.",21910000000.0,9694.59,5,01/5/2023,Low,Large,2.0
+161,162,Phoebe,Earlam,RADA,Consumer Non-Durables,NASDAQ,RADA Electronic Industries Ltd.,36150000.0,98743.23,5,01/5/2023,Very High,Small,2.0
+169,170,Ciro,Kebbell,TEAR,Health Care,NASDAQ,TearLab Corporation,9010000.0,96069.44,5,01/5/2023,Very High,Small,4.0
+186,187,Karoly,Kynoch,RFEM,,NASDAQ,First Trust RiverFront Dynamic Emerging Markets ETF,31030000.0,4546.92,5,01/5/2023,Low,Small,4.0
+189,190,Lesli,Flewitt,MCD,Consumer Services,NYSE,McDonald's Corporation,123880000000.0,57256.94,5,01/5/2023,High,Huge,5.0
+204,205,Bryon,Battey,WES,Public Utilities,NYSE,"Western Gas Partners, LP",8390000000.000001,99514.72,5,01/5/2023,Very High,Large,4.0
+217,218,Haleigh,Pretty,PTIE,Health Care,NASDAQ,"Pain Therapeutics, Inc.",27030000.0,46914.07,5,01/5/2023,Medium,Small,5.0
+228,229,Reinaldo,Strowlger,MYI,,NYSE,"Blackrock MuniYield Quality Fund III, Inc.",975820000.0,98236.89,5,01/5/2023,Very High,Medium,3.0
+251,252,Robinet,Keilty,DTYL,Finance,NASDAQ,iPath US Treasury 10-year Bull ETN,5270000.0,99565.50,5,01/5/2023,Very High,Small,1.0
+254,255,Janeta,Couronne,RGA,Finance,NYSE,"Reinsurance Group of America, Incorporated",8289999999.999999,74232.12,5,01/5/2023,High,Large,3.0
+274,275,Felicio,Arnowitz,CP,Transportation,NYSE,Canadian Pacific Railway Limited,22760000000.0,49976.54,5,01/5/2023,Medium,Large,1.0
+292,293,Aloise,Wherton,GBDC,,NASDAQ,"Golub Capital BDC, Inc.",1110000000.0,99839.23,5,01/5/2023,Very High,Large,2.0
+293,294,Loralie,Lampens,RVSB,Finance,NASDAQ,Riverview Bancorp Inc,148350000.0,49298.53,5,01/5/2023,Medium,Medium,5.0
+294,295,Skippie,Sanchis,LNN,Capital Goods,NYSE,Lindsay Corporation,914460000.0,98208.86,5,01/5/2023,Very High,Medium,4.0
+316,317,Corinna,Sheerman,GTIM,Consumer Services,NASDAQ,Good Times Restaurants Inc.,41810000.0,8371.13,5,01/5/2023,Low,Small,2.0
+319,320,Sib,Gilsthorpe,OBSV,Health Care,NASDAQ,ObsEva SA,161490000.0,9212.44,5,01/5/2023,Low,Medium,3.0
+324,325,Orly,Conner,GFA,Basic Industries,NYSE,Gafisa SA,95340000.0,94675.84,5,01/5/2023,Very High,Small,5.0
+333,334,Alicea,Marns,DWAQ,,NASDAQ,PowerShares DWA NASDAQ Momentum Portfolio,35540000.0,72826.15,5,01/5/2023,High,Small,5.0
+338,339,Jelene,Glyn,MBII,Basic Industries,NASDAQ,"Marrone Bio Innovations, Inc.",32290000.0,4213.50,5,01/5/2023,Low,Small,5.0
+340,341,Vinnie,Snellman,PTR,Energy,NYSE,PetroChina Company Limited,116380000000.0,29397.19,5,01/5/2023,Medium,Huge,1.0
+358,359,Elbert,Youngman,DGICB,Finance,NASDAQ,"Donegal Group, Inc.",395710000.0,99801.39,5,01/5/2023,Very High,Medium,1.0
+400,401,Thaddeus,Kenwright,EMCI,Finance,NASDAQ,EMC Insurance Group Inc.,588240000.0,49732.20,5,01/5/2023,Medium,Medium,1.0
+414,415,Ferdie,Edger,KO,Consumer Non-Durables,NYSE,Coca-Cola Company (The),193590000000.0,94005.53,5,01/5/2023,Very High,Huge,2.0
+420,421,Carolyne,Peller,TLGT,Health Care,NASDAQ,"Teligent, Inc.",459340000.0,49375.42,5,01/5/2023,Medium,Medium,3.0
+421,422,Hedi,Baudts,AVB,Consumer Services,NYSE,"AvalonBay Communities, Inc.",27020000000.0,99971.11,5,01/5/2023,Very High,Large,1.0
+437,438,Opaline,Antos,WYIGU,Finance,NASDAQ,JM Global Holding Company,67860000.0,48225.70,5,01/5/2023,Medium,Small,2.0
+439,440,Marcus,Mattioni,PPHMP,Health Care,NASDAQ,Peregrine Pharmaceuticals Inc.,15330000.0,9677.91,5,01/5/2023,Low,Small,1.0
+448,449,Haley,Yegorkov,ESSA,Finance,NASDAQ,"ESSA Bancorp, Inc.",175650000.0,74026.74,5,01/5/2023,High,Medium,3.0
+453,454,Meggi,De Rye Barrett,AKTX,Health Care,NASDAQ,Akari Therapeutics Plc,56290000.0,74144.16,5,01/5/2023,High,Small,2.0
+459,460,Logan,Prettyjohns,PTR,Energy,NYSE,PetroChina Company Limited,116380000000.0,62771.16,5,01/5/2023,High,Huge,2.0
+571,572,Vail,Lightbody,BCC,Consumer Services,NYSE,"Boise Cascade, L.L.C.",1140000000.0,49509.01,5,01/5/2023,Medium,Large,5.0
+576,577,Hortensia,Heart,ACET,Health Care,NASDAQ,Aceto Corporation,437060000.0,99113.45,5,01/5/2023,Very High,Medium,2.0
+618,619,Dreddy,Hurlin,MRK,Health Care,NYSE,"Merck & Company, Inc.",172230000000.0,7712.91,5,01/5/2023,Low,Huge,1.0
+620,621,Rolfe,McCauley,MNST,Consumer Non-Durables,NASDAQ,Monster Beverage Corporation,28570000000.0,99649.45,5,01/5/2023,Very High,Large,3.0
+644,645,Giulia,Rosi,MARK,Consumer Services,NASDAQ,"Remark Holdings, Inc.",57310000.0,48745.09,5,01/5/2023,Medium,Small,1.0
+678,679,Elsey,Greenway,CTL,Public Utilities,NYSE,"CenturyLink, Inc.",14120000000.0,9607.74,5,01/5/2023,Low,Large,3.0
+683,684,Renell,Dragon,SPIL,Technology,NASDAQ,"Siliconware Precision Industries Company, Ltd.",5070000000.0,74783.50,5,01/5/2023,High,Large,1.0
+691,692,Fidel,Draper,MRIN,Technology,NYSE,Marin Software Incorporated,47310000.0,6331.49,5,01/5/2023,Low,Small,3.0
+720,721,Estel,Merrin,MHD,,NYSE,"Blackrock MuniHoldings Fund, Inc.",243600000.0,8464.46,5,01/5/2023,Low,Medium,5.0
+728,729,Candide,Fidler,FVC,,NASDAQ,First Trust Dorsey Wright Dynamic Focus 5 ETF,318660000.0,72653.09,5,01/5/2023,High,Medium,5.0
+730,731,Stillmann,Elphick,IBM,Technology,NYSE,International Business Machines Corporation,145980000000.0,59375.02,5,01/5/2023,High,Huge,4.0
+752,753,Heddi,Brownsall,ARA,Health Care,NYSE,"American Renal Associates Holdings, Inc",569450000.0,8917.75,5,01/5/2023,Low,Medium,4.0
+753,754,Roy,Albrighton,DOC,Consumer Services,NYSE,Physicians Realty Trust,3260000000.0,8745.76,5,01/5/2023,Low,Large,4.0
+756,757,Lucie,Vogel,PGTI,Capital Goods,NYSE,"PGT Innovations, Inc.",610360000.0,49373.11,5,01/5/2023,Medium,Medium,4.0
+766,767,Pattie,Tytcomb,NMFC,,NYSE,New Mountain Finance Corporation,1090000000.0,8543.03,5,01/5/2023,Low,Large,5.0
+768,769,Carol,Linney,CSTR,Finance,NASDAQ,"CapStar Financial Holdings, Inc.",196970000.0,73302.36,5,01/5/2023,High,Medium,4.0
+770,771,Ermina,Dayton,VPG,Capital Goods,NYSE,"Vishay Precision Group, Inc.",229330000.0,9629.22,5,01/5/2023,Low,Medium,1.0
+781,782,Ikey,Allaway,ESLT,Capital Goods,NASDAQ,Elbit Systems Ltd.,5290000000.0,99445.93,5,01/5/2023,Very High,Large,5.0
+791,792,Candide,Lockitt,TECD,Technology,NASDAQ,Tech Data Corporation,3670000000.0,49765.42,5,01/5/2023,Medium,Large,3.0
+800,801,Alwyn,Celli,FMCI,Finance,NASDAQ,Forum Merger Corporation,217090000.0,49649.44,5,01/5/2023,Medium,Medium,2.0
+802,803,Becka,Wickmann,AGTC,Health Care,NASDAQ,Applied Genetic Technologies Corporation,91320000.0,72955.03,5,01/5/2023,High,Small,4.0
+843,844,Jolyn,Bedlington,TIG,Health Care,NASDAQ,TiGenix,103100000000.0,66390.82,5,01/5/2023,High,Huge,1.0
+854,855,Odessa,Ilyushkin,LMAT,Health Care,NASDAQ,"LeMaitre Vascular, Inc.",512549999.99999994,74651.76,5,01/5/2023,High,Medium,1.0
+870,871,Kennie,Mallord,TSI,,NYSE,"TCW Strategic Income Fund, Inc.",271820000.0,98154.00,5,01/5/2023,Very High,Medium,5.0
+920,921,Skip,Allix,AXR,Consumer Services,NYSE,AMREP Corporation,56380000.0,47057.47,5,01/5/2023,Medium,Small,4.0
+922,923,Levey,Mortimer,FPT,,NYSE,Federated Premier Intermediate Municipal Income Fund,94960000.0,73712.10,5,01/5/2023,High,Small,3.0
+948,949,Mignon,Boddice,CFMS,Health Care,NASDAQ,"ConforMIS, Inc.",180660000.0,9371.71,5,01/5/2023,Low,Medium,2.0
+972,973,Christye,McGarvie,FTXL,,NASDAQ,First Trust Nasdaq Semiconductor ETF,21580000.0,47878.22,5,01/5/2023,Medium,Small,3.0
+980,981,Cello,Pauncefort,SO,Public Utilities,NYSE,Southern Company (The),51250000000.0,74715.06,5,01/5/2023,High,Large,2.0
+981,982,Rubin,Stonman,QQXT,,NASDAQ,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,101070000.0,74154.09,5,01/5/2023,High,Medium,2.0
+990,991,Norry,Wiz,BABY,Health Care,NASDAQ,Natus Medical Incorporated,1160000000.0,74231.26,5,01/5/2023,High,Large,4.0
+992,993,Feodor,Harragin,CPK,Public Utilities,NYSE,Chesapeake Utilities Corporation,1230000000.0,73871.46,5,01/5/2023,High,Large,5.0
+4,5,Cynthy,Cornuau,HRL,Consumer Non-Durables,NYSE,Hormel Foods Corporation,17940000000.0,99994.59,12,01/12/2023,Very High,Large,1.0
+14,15,Maighdiln,Chedgey,TDC,Technology,NYSE,Teradata Corporation,3660000000.0,49255.48,12,01/12/2023,Medium,Large,3.0
+46,47,Faustina,Wear,PTGX,Health Care,NASDAQ,"Protagonist Therapeutics, Inc.",177840000.0,98986.78,12,01/12/2023,Very High,Medium,5.0
+49,50,Malvina,Gorges,FLAG,,NASDAQ,WeatherStorm Forensic Accounting Long Short ETF,15380000.0,9873.70,12,01/12/2023,Low,Small,1.0
+60,61,Lisa,Janz,MFM,,NYSE,MFS Municipal Income Trust,294490000.0,9243.72,12,01/12/2023,Low,Medium,2.0
+112,113,Jenifer,Geraldo,HSBC,Finance,NYSE,HSBC Holdings plc,176430000000.0,99014.84,12,01/12/2023,Very High,Huge,1.0
+117,118,Rice,Bentote,QAT,,NASDAQ,iShares MSCI Qatar Capped ETF,38960000.0,99349.08,12,01/12/2023,Very High,Small,2.0
+168,169,Granger,Driscoll,CUBA,,NASDAQ,"The Herzfeld Caribbean Basin Fund, Inc.",43730000.0,73570.80,12,01/12/2023,High,Small,1.0
+170,171,Margalo,Sommerfeld,DEI,Consumer Services,NYSE,"Douglas Emmett, Inc.",6030000000.0,9763.64,12,01/12/2023,Low,Large,2.0
+182,183,Dionisio,Urquhart,PRKR,Technology,NASDAQ,"ParkerVision, Inc.",41590000.0,70305.45,12,01/12/2023,High,Small,4.0
+191,192,Stacia,Haggus,BFO,,NYSE,Blackrock Florida Municipal 2020 Term Trust,84270000.0,8316.66,12,01/12/2023,Low,Small,2.0
+202,203,Florencia,Dabourne,TSM,Technology,NYSE,Taiwan Semiconductor Manufacturing Company Ltd.,186020000000.0,69056.61,12,01/12/2023,High,Huge,1.0
+209,210,George,Benezet,SNY,Health Care,NYSE,Sanofi,123340000000.0,46333.18,12,01/12/2023,Medium,Huge,1.0
+211,212,Desiri,Tebbitt,WDR,Finance,NYSE,"Waddell & Reed Financial, Inc.",1560000000.0,49925.01,12,01/12/2023,Medium,Large,1.0
+219,220,Rosita,Skittreal,NXN,,NYSE,Nuveen Insured New York Select Tax-Free Income Portfolio,54360000.0,71672.12,12,01/12/2023,High,Small,2.0
+231,232,Denys,Konert,PDLI,Health Care,NASDAQ,"PDL BioPharma, Inc.",367040000.0,73471.57,12,01/12/2023,High,Medium,4.0
+245,246,Edgard,Kupec,ENBL,Public Utilities,NYSE,"Enable Midstream Partners, LP",6430000000.0,49489.54,12,01/12/2023,Medium,Large,2.0
+259,260,Chloe,Venny,LBF,,NYSE,"Scudder Global High Income Fund, Inc.",56460000.0,46592.33,12,01/12/2023,Medium,Small,3.0
+263,264,Kamillah,Crosland,FISV,Technology,NASDAQ,"Fiserv, Inc.",26470000000.0,99492.37,12,01/12/2023,Very High,Large,3.0
+274,275,Cynthea,Topp,MTG,Finance,NYSE,MGIC Investment Corporation,4139999999.9999995,9626.06,12,01/12/2023,Low,Large,3.0
+275,276,Reyna,Abell,PNFP,Finance,NASDAQ,"Pinnacle Financial Partners, Inc.",3270000000.0,49019.57,12,01/12/2023,Medium,Large,5.0
+288,289,Cletis,Leel,LINC,Consumer Services,NASDAQ,Lincoln Educational Services Corporation,80580000.0,49548.70,12,01/12/2023,Medium,Small,1.0
+313,314,Cammy,Brozek,AEL,Finance,NYSE,American Equity Investment Life Holding Company,2220000000.0,74402.16,12,01/12/2023,High,Large,4.0
+333,334,Jennine,Bosch,CMRE,Transportation,NYSE,Costamare Inc.,710190000.0,74049.76,12,01/12/2023,High,Medium,1.0
+342,343,Brocky,Couldwell,SA,Basic Industries,NYSE,"Seabridge Gold, Inc.",559330000.0,48821.28,12,01/12/2023,Medium,Medium,4.0
+350,351,Debera,Waghorne,KO,Consumer Non-Durables,NYSE,Coca-Cola Company (The),193590000000.0,31850.90,12,01/12/2023,Medium,Huge,3.0
+352,353,Welbie,Robbey,ORMP,Health Care,NASDAQ,Oramed Pharmaceuticals Inc.,98910000.0,99965.64,12,01/12/2023,Very High,Small,1.0
+375,376,Porter,Tribble,MZF,,NYSE,Managed Duration Investment Grade Municipal Fund,94050000.0,69346.35,12,01/12/2023,High,Small,5.0
+377,378,Chrissy,Daulby,ARTW,Capital Goods,NASDAQ,"Art's-Way Manufacturing Co., Inc.",12260000.0,98615.62,12,01/12/2023,Very High,Small,5.0
+383,384,Serge,Bygate,KF,,NYSE,"Korea Fund, Inc. (The)",233080000.0,8936.57,12,01/12/2023,Low,Medium,3.0
+391,392,Gareth,Yvens,PFSW,Miscellaneous,NASDAQ,"PFSweb, Inc.",136890000.0,73540.05,12,01/12/2023,High,Medium,3.0
+394,395,Stormy,McCuaig,DEA,Consumer Services,NYSE,"Easterly Government Properties, Inc.",779290000.0,99234.00,12,01/12/2023,Very High,Medium,4.0
+426,427,Valina,Shelliday,CNTF,,NASDAQ,China TechFaith Wireless Communication Technology Limited,33670000.0,47599.22,12,01/12/2023,Medium,Small,2.0
+439,440,Nikki,Paolone,CHS,Consumer Services,NYSE,"Chico's FAS, Inc.",1200000000.0,74981.51,12,01/12/2023,High,Large,1.0
+446,447,Fabe,Trew,MO,Consumer Non-Durables,NYSE,Altria Group,149280000000.0,24269.42,12,01/12/2023,Low,Huge,1.0
+509,510,Orly,Turner,CMCSA,Consumer Services,NASDAQ,Comcast Corporation,195790000000.0,97671.88,12,01/12/2023,Very High,Huge,2.0
+530,531,Grant,O'Hickey,FVC,,NASDAQ,First Trust Dorsey Wright Dynamic Focus 5 ETF,318660000.0,49366.63,12,01/12/2023,Medium,Medium,2.0
+531,532,Connie,Zappel,KYO,Technology,NYSE,Kyocera Corporation,21430000000.0,74724.46,12,01/12/2023,High,Large,3.0
+534,535,Morgana,Cheale,KFRC,Technology,NASDAQ,"Kforce, Inc.",498130000.0,99243.80,12,01/12/2023,Very High,Medium,3.0
+540,541,Dode,Limmer,REGI,Basic Industries,NASDAQ,"Renewable Energy Group, Inc.",477600000.0,73563.20,12,01/12/2023,High,Medium,2.0
+640,641,Nannie,Jerrand,AWK,Public Utilities,NYSE,American Water Works,14720000000.0,74877.80,12,01/12/2023,High,Large,2.0
+645,646,Vernon,Yanov,PEGI,Public Utilities,NASDAQ,Pattern Energy Group Inc.,2080000000.0,74286.29,12,01/12/2023,High,Large,5.0
+652,653,Pren,Sillis,NEWT,,NASDAQ,Newtek Business Services Corp.,283590000.0,99497.72,12,01/12/2023,Very High,Medium,2.0
+664,665,Juditha,Bengefield,APEN,Health Care,NASDAQ,"Apollo Endosurgery, Inc.",72330000.0,98709.71,12,01/12/2023,Very High,Small,3.0
+671,672,Rennie,Nicolls,BKH,Public Utilities,NYSE,Black Hills Corporation,3840000000.0,99041.03,12,01/12/2023,Very High,Large,4.0
+678,679,Adelheid,Belly,ACFC,Finance,NASDAQ,Atlantic Coast Financial Corporation,119140000.0,7212.20,12,01/12/2023,Low,Medium,5.0
+753,754,Heida,Kilcoyne,IIIN,Capital Goods,NASDAQ,"Insteel Industries, Inc.",605760000.0,9797.43,12,01/12/2023,Low,Medium,1.0
+760,761,Barrie,Schiementz,NSIT,Consumer Services,NASDAQ,"Insight Enterprises, Inc.",1490000000.0,9918.30,12,01/12/2023,Low,Large,1.0
+764,765,Corabel,Northern,QVCB,Consumer Services,NASDAQ,Liberty Interactive Corporation,10920000000.0,49186.90,12,01/12/2023,Medium,Large,4.0
+767,768,Gail,Arntzen,PTSI,Transportation,NASDAQ,"P.A.M. Transportation Services, Inc.",129340000.0,48733.10,12,01/12/2023,Medium,Medium,5.0
+786,787,Almeria,McGinley,KTEC,Technology,NASDAQ,"Key Technology, Inc.",87570000.0,7839.84,12,01/12/2023,Low,Small,3.0
+797,798,Tiff,Cruickshanks,CTT           ,Consumer Services,NYSE,"CatchMark Timber Trust, Inc.",452920000.0,99520.02,12,01/12/2023,Very High,Medium,1.0
+808,809,Filberto,Moyers,RIC,Basic Industries,NYSE,"Richmont Mines, Inc.",458830000.0,73447.04,12,01/12/2023,High,Medium,5.0
+817,818,Friederike,Roskelly,AVNW,Technology,NASDAQ,"Aviat Networks, Inc.",93710000.0,70596.71,12,01/12/2023,High,Small,3.0
+824,825,Giselle,Allix,CNHI,Capital Goods,NYSE,CNH Industrial N.V.,15850000000.0,99977.70,12,01/12/2023,Very High,Large,2.0
+827,828,Ofella,Biers,IEUS,,NASDAQ,iShares MSCI Europe Small-Cap ETF,126720000.0,49564.15,12,01/12/2023,Medium,Medium,1.0
+841,842,Ulberto,Almon,MTBC,Technology,NASDAQ,"Medical Transcription Billing, Corp.",19070000.0,46529.94,12,01/12/2023,Medium,Small,4.0
+853,854,Gaby,Farge,NEOT,Health Care,NASDAQ,"Neothetics, Inc.",26560000.0,6473.85,12,01/12/2023,Low,Small,4.0
+854,855,Gladi,O'Nion,HSGX,Health Care,NASDAQ,Histogenics Corporation,35470000.0,6419.44,12,01/12/2023,Low,Small,5.0
+866,867,Michel,Slayny,LITB,Consumer Services,NYSE,"LightInTheBox Holding Co., Ltd.",170210000.0,8220.92,12,01/12/2023,Low,Medium,4.0
+869,870,Carey,Sibley,KR,Consumer Services,NYSE,Kroger Company (The),20340000000.0,98708.29,12,01/12/2023,Very High,Large,5.0
+921,922,Katalin,Gregolotti,V,Miscellaneous,NYSE,Visa Inc.,217120000000.0,33472.83,12,01/12/2023,Medium,Huge,2.0
+922,923,Ellynn,Thoms,CSX,Transportation,NASDAQ,CSX Corporation,48660000000.0,9073.44,12,01/12/2023,Low,Large,5.0
+925,926,Sigismond,Hast,SAP,Technology,NYSE,SAP SE,126800000000.0,78869.76,12,01/12/2023,Very High,Huge,3.0
+932,933,Dillie,Ciubutaro,EOG,Energy,NYSE,"EOG Resources, Inc.",51100000000.0,9254.95,12,01/12/2023,Low,Large,4.0
+944,945,Eudora,Wissbey,T,Public Utilities,NYSE,AT&T Inc.,239530000000.0,57536.21,12,01/12/2023,High,Huge,2.0
+958,959,Thomasin,Edmed,PTIE,Health Care,NASDAQ,"Pain Therapeutics, Inc.",27030000.0,98696.95,12,01/12/2023,Very High,Small,4.0
+969,970,Gearard,Swindells,XTLB,Health Care,NASDAQ,XTL Biopharmaceuticals Ltd.,13780000.0,44545.82,12,01/12/2023,Medium,Small,5.0
+981,982,Jerrie,Debling,TTI,Energy,NYSE,"Tetra Technologies, Inc.",364090000.0,48925.34,12,01/12/2023,Medium,Medium,3.0
+12,13,Alla,Biasio,TRPX,Health Care,NASDAQ,Therapix Biosciences Ltd.,21620000.0,8194.04,10,01/10/2023,Low,Small,3.0
+19,20,Betta,Curnnok,HGV,Consumer Services,NYSE,Hilton Grand Vacations Inc.,3620000000.0,49006.88,10,01/10/2023,Medium,Large,4.0
+31,32,Francesco,Siebart,MDR,Capital Goods,NYSE,"McDermott International, Inc.",1780000000.0,8211.21,10,01/10/2023,Low,Large,4.0
+39,40,Dare,Tousey,PXD,Energy,NYSE,Pioneer Natural Resources Company,27010000000.0,49057.30,10,01/10/2023,Medium,Large,3.0
+94,95,Borg,Broek,TPH,Capital Goods,NYSE,"TRI Pointe Group, Inc.",1980000000.0,48946.23,10,01/10/2023,Medium,Large,5.0
+95,96,Man,Murdoch,VBTX,Finance,NASDAQ,"Veritex Holdings, Inc.",425820000.0,74509.82,10,01/10/2023,High,Medium,2.0
+116,117,Catherina,Birkby,AROW,Finance,NASDAQ,Arrow Financial Corporation,442960000.0,8254.29,10,01/10/2023,Low,Medium,3.0
+124,125,Sharona,Frentz,WNEB,Finance,NASDAQ,"Western New England Bancorp, Inc.",332530000.0,49422.93,10,01/10/2023,Medium,Medium,4.0
+186,187,Stefania,Moreinis,TLF,Consumer Non-Durables,NASDAQ,"Tandy Leather Factory, Inc.",76520000.0,98740.90,10,01/10/2023,Very High,Small,3.0
+188,189,Evanne,Impey,ANF,Consumer Services,NYSE,Abercrombie & Fitch Company,852240000.0,7591.25,10,01/10/2023,Low,Medium,5.0
+193,194,Rebecca,Roake,CYH,Health Care,NYSE,"Community Health Systems, Inc.",1030000000.0,74297.45,10,01/10/2023,High,Large,1.0
+201,202,Bette-ann,Harmar,STON,Consumer Services,NYSE,StoneMor Partners L.P.,345320000.0,99845.03,10,01/10/2023,Very High,Medium,1.0
+215,216,Johannah,Medmore,JELD,Basic Industries,NYSE,"JELD-WEN Holding, Inc.",3600000000.0,99030.70,10,01/10/2023,Very High,Large,2.0
+217,218,Maxim,Counsell,BRSS,Capital Goods,NYSE,"Global Brass and Copper Holdings, Inc.",675150000.0,98376.42,10,01/10/2023,Very High,Medium,5.0
+232,233,Corri,Conniam,ALOT,Technology,NASDAQ,"AstroNova, Inc.",90180000.0,72689.82,10,01/10/2023,High,Small,2.0
+240,241,Lexis,Petriello,PGC,Finance,NASDAQ,Peapack-Gladstone Financial Corporation,531919999.99999994,73357.90,10,01/10/2023,High,Medium,5.0
+246,247,Lennard,Gehring,LND,,NYSE,Brasilagro Cia Brasileira De Propriedades Agricolas,218350000.0,8776.48,10,01/10/2023,Low,Medium,2.0
+257,258,Chandra,Olekhov,VLRS,Transportation,NYSE,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",1440000000.0,9854.99,10,01/10/2023,Low,Large,1.0
+269,270,Cahra,Ibbott,HEP,Energy,NYSE,"Holly Energy Partners, L.P.",2049999999.9999998,73994.00,10,01/10/2023,High,Large,4.0
+275,276,Mickey,Voelker,MERC,Basic Industries,NASDAQ,Mercer International Inc.,769940000.0,99152.32,10,01/10/2023,Very High,Medium,2.0
+283,284,Katina,Vincent,ABEV,Consumer Non-Durables,NYSE,Ambev S.A.,83850000000.0,8877.89,10,01/10/2023,Low,Large,2.0
+336,337,Halli,Danev,MDT,Health Care,NYSE,Medtronic plc,120570000000.0,43741.32,10,01/10/2023,Medium,Huge,2.0
+340,341,Tanya,Sweetland,TIG,Health Care,NASDAQ,TiGenix,103100000000.0,71434.86,10,01/10/2023,High,Huge,1.0
+341,342,Celina,Ayton,ONEQ,,NASDAQ,Fidelity Nasdaq Composite Index Tracking Stock,798860000.0,74324.90,10,01/10/2023,High,Medium,4.0
+378,379,Tonia,Molesworth,PFBX,Finance,NASDAQ,Peoples Financial Corporation,66090000.0,69169.20,10,01/10/2023,High,Small,5.0
+390,391,Marleen,Eastridge,UL,Basic Industries,NYSE,Unilever PLC,157690000000.0,62997.49,10,01/10/2023,High,Huge,2.0
+396,397,Nick,Rape,RLI,Finance,NYSE,RLI Corp.,2500000000.0,98812.27,10,01/10/2023,Very High,Large,4.0
+399,400,Mallorie,Bettington,MUI,,NYSE,Blackrock Muni Intermediate Duration Fund Inc,539980000.0,98860.88,10,01/10/2023,Very High,Medium,4.0
+431,432,Ephrayim,Scotsbrook,AJG,Finance,NYSE,Arthur J. Gallagher & Co.,10590000000.0,770.85,10,01/10/2023,Low,Large,5.0
+437,438,Frank,Waterhowse,CHEK,Health Care,NASDAQ,Check-Cap Ltd.,29390000.0,46787.55,10,01/10/2023,Medium,Small,4.0
+448,449,Orville,Viney,BXC,Capital Goods,NYSE,BlueLinx Holdings Inc.,99140000.0,6148.06,10,01/10/2023,Low,Small,5.0
+474,475,Konstanze,Hoffman,HSNI,Consumer Services,NASDAQ,"HSN, Inc.",1680000000.0,49985.48,10,01/10/2023,Medium,Large,1.0
+525,526,Abigale,McNirlan,CMCSA,Consumer Services,NASDAQ,Comcast Corporation,195790000000.0,7696.13,10,01/10/2023,Low,Huge,1.0
+529,530,Bale,Furby,ITCI,Health Care,NASDAQ,Intra-Cellular Therapies Inc.,471110000.0,49809.34,10,01/10/2023,Medium,Medium,1.0
+541,542,Darby,Stivani,ORCL,Technology,NYSE,Oracle Corporation,185530000000.0,10090.53,10,01/10/2023,Low,Huge,3.0
+549,550,Laurel,Mazzey,MSFT,Technology,NASDAQ,Microsoft Corporation,540440000000.00006,46645.14,10,01/10/2023,Medium,Huge,1.0
+559,560,Gina,Crufts,ALOT,Technology,NASDAQ,"AstroNova, Inc.",90180000.0,99256.95,10,01/10/2023,Very High,Small,2.0
+588,589,Norine,Edland,BAC,Finance,NYSE,Bank of America Corporation,233170000000.0,88453.19,10,01/10/2023,Very High,Huge,1.0
+608,609,Rhianon,Linge,Y,Finance,NYSE,Alleghany Corporation,9370000000.0,74064.16,10,01/10/2023,High,Large,3.0
+611,612,Dorolice,Olifard,EVOK,Health Care,NASDAQ,"Evoke Pharma, Inc.",38160000.0,8778.93,10,01/10/2023,Low,Small,2.0
+638,639,Gearard,Jansky,TPIV,Health Care,NASDAQ,TapImmune Inc.,33540000.0,47228.81,10,01/10/2023,Medium,Small,3.0
+641,642,Wayland,Leggott,OASM,Health Care,NASDAQ,Oasmia Pharmaceutical AB,38240000.0,72922.81,10,01/10/2023,High,Small,1.0
+664,665,Hope,Lippett,FISI,Finance,NASDAQ,"Financial Institutions, Inc.",443540000.0,49483.65,10,01/10/2023,Medium,Medium,3.0
+714,715,Hertha,Fallens,RRGB,Consumer Services,NASDAQ,"Red Robin Gourmet Burgers, Inc.",828170000.0,74844.45,10,01/10/2023,High,Medium,1.0
+755,756,Britni,Saltsberg,SYNL,Basic Industries,NASDAQ,Synalloy Corporation,96770000.0,99576.99,10,01/10/2023,Very High,Small,1.0
+766,767,Dulcinea,Tutin,PBR,Energy,NYSE,Petroleo Brasileiro S.A.- Petrobras,52700000000.0,49733.13,10,01/10/2023,Medium,Large,2.0
+772,773,Carmella,Gothard,AVHI,Capital Goods,NASDAQ,"A V Homes, Inc.",410690000.0,9635.59,10,01/10/2023,Low,Medium,1.0
+778,779,Stacy,Donhardt,PNBK,Finance,NASDAQ,Patriot National Bancorp Inc.,60360000.0,45652.92,10,01/10/2023,Medium,Small,5.0
+803,804,Cathi,Ianittello,ESCA,Consumer Non-Durables,NASDAQ,"Escalade, Incorporated",182920000.0,49304.34,10,01/10/2023,Medium,Medium,5.0
+804,805,Kathrine,Tison,FFHL,Capital Goods,NASDAQ,"Fuwei Films (Holdings) Co., Ltd.",10060000.0,48363.57,10,01/10/2023,Medium,Small,2.0
+807,808,Latrina,Claisse,PSA,Consumer Services,NYSE,Public Storage,37140000000.0,8583.60,10,01/10/2023,Low,Large,3.0
+808,809,Wilbur,Sibbert,GASS,Transportation,NASDAQ,"StealthGas, Inc.",122370000.0,74354.60,10,01/10/2023,High,Medium,3.0
+824,825,Kristian,McLaughlan,JPM,Finance,NYSE,J P Morgan Chase & Co,306180000000.0,5294.73,10,01/10/2023,Low,Huge,2.0
+825,826,Nickolas,Penketh,NWY,Consumer Services,NYSE,"New York & Company, Inc.",86050000.0,98710.89,10,01/10/2023,Very High,Small,4.0
+836,837,Giselle,Cranidge,FCT,,NYSE,First Trust Senior Floating Rate Income Fund II,359340000.0,7920.21,10,01/10/2023,Low,Medium,4.0
+857,858,Carolee,Randerson,PLXP,Health Care,NASDAQ,PLx Pharma Inc.,1040000.0,69627.59,10,01/10/2023,High,Small,4.0
+865,866,Tedie,Beretta,ITCB,Finance,NYSE,Ita? CorpBanca,4740000000.0,98729.30,10,01/10/2023,Very High,Large,5.0
+894,895,Anthea,Element,APDN,Consumer Services,NASDAQ,Applied DNA Sciences Inc,26320000.0,48801.46,10,01/10/2023,Medium,Small,1.0
+914,915,Gregorio,Scardifield,HTGM,Capital Goods,NASDAQ,"HTG Molecular Diagnostics, Inc.",26860000.0,7157.50,10,01/10/2023,Low,Small,4.0
+919,920,Jerrie,Laurisch,PEZ,,NASDAQ,PowerShares DWA Consumer Cyclicals Momentum Portfolio,58530000.0,72378.59,10,01/10/2023,High,Small,3.0
+928,929,Luciano,Birrane,TRNC,Consumer Services,NASDAQ,"tronc, Inc.",422690000.0,49502.60,10,01/10/2023,Medium,Medium,2.0
+933,934,Roger,Stedall,ENB,Energy,NYSE,Enbridge Inc,63730000000.0,73764.73,10,01/10/2023,High,Large,5.0
+935,936,Rouvin,Rubinovici,BBVA,Finance,NYSE,Banco Bilbao Viscaya Argentaria S.A.,53980000000.0,99027.34,10,01/10/2023,Very High,Large,3.0
+945,946,Johny,Petrosian,IROQ,Finance,NASDAQ,"IF Bancorp, Inc.",77630000.0,98433.17,10,01/10/2023,Very High,Small,5.0
+954,955,Stace,McKerton,IMOS,Technology,NASDAQ,ChipMOS TECHNOLOGIES INC.,899860000.0,98999.48,10,01/10/2023,Very High,Medium,3.0
+975,976,Nani,Epilet,ARRS,Technology,NASDAQ,ARRIS International plc,5440000000.0,74179.13,10,01/10/2023,High,Large,2.0
+980,981,Nickey,Guinn,AAL,Transportation,NASDAQ,"American Airlines Group, Inc.",24030000000.0,99340.47,10,01/10/2023,Very High,Large,1.0
+983,984,Irina,Vettore,TROV,Health Care,NASDAQ,"TrovaGene, Inc.",29240000.0,913.85,10,01/10/2023,Low,Small,1.0
+14,15,Rosalinde,Foxwell,TRP,Public Utilities,NYSE,TransCanada Corporation,41810000000.0,47659.42,2,01/2/2023,Medium,Large,5.0
+29,30,Pierce,Dingley,TM,Capital Goods,NYSE,Toyota Motor Corp Ltd Ord,156020000000.0,87493.53,2,01/2/2023,Very High,Huge,1.0
+35,36,Ynez,Fawlks,VMW,Technology,NYSE,"Vmware, Inc.",35980000000.0,9947.23,2,01/2/2023,Low,Large,1.0
+38,39,Giacopo,Raitie,MTGEP,Consumer Services,NASDAQ,MTGE Investment Corp.,52000000.0,97624.85,2,01/2/2023,Very High,Small,4.0
+53,54,Care,Hamilton,MPB,Finance,NASDAQ,Mid Penn Bancorp,114750000.0,99994.68,2,01/2/2023,Very High,Medium,1.0
+70,71,Caesar,Kuhn,HAS,Consumer Non-Durables,NASDAQ,"Hasbro, Inc.",13710000000.0,74026.09,2,01/2/2023,High,Large,5.0
+114,115,Redd,Bault,DUK,Public Utilities,NYSE,Duke Energy Corporation,60990000000.0,9206.10,2,01/2/2023,Low,Large,2.0
+121,122,Teresa,Starzaker,NXTD,Consumer Services,NASDAQ,NXT-ID Inc.,12730000.0,7618.89,2,01/2/2023,Low,Small,5.0
+122,123,Somerset,Hugk,CVO,Consumer Durables,NYSE,Cenveo Inc,52170000.0,48871.85,2,01/2/2023,Medium,Small,4.0
+189,190,Barnabas,McPhee,ROKA,Capital Goods,NASDAQ,"Roka Bioscience, Inc.",13520000.0,8241.49,2,01/2/2023,Low,Small,4.0
+210,211,Gina,House,MNI,Consumer Services,NYSE,McClatchy Company (The),85510000.0,48567.77,2,01/2/2023,Medium,Small,5.0
+214,215,Sibylla,Wilgar,THQ,,NYSE,Tekla Healthcare Opportunies Fund,772410000.0,99728.24,2,01/2/2023,Very High,Medium,2.0
+216,217,Craig,Hanretty,TRK,Consumer Services,NYSE,"Speedway Motorsports, Inc.",760100000.0,94.03,2,01/2/2023,Low,Medium,3.0
+229,230,Noak,Newband,AXAR,Finance,NASDAQ,Axar Acquisition Corp.,83790000.0,74010.12,2,01/2/2023,High,Small,3.0
+247,248,Inesita,Gorelli,VZ,Public Utilities,NYSE,Verizon Communications Inc.,190220000000.0,39428.93,2,01/2/2023,Medium,Huge,3.0
+263,264,Niel,Woolgar,SRCE,Finance,NASDAQ,1st Source Corporation,1270000000.0,74668.62,2,01/2/2023,High,Large,1.0
+281,282,Damita,Pammenter,TV,Consumer Services,NYSE,Grupo Televisa S.A.,14270000000.0,901.17,2,01/2/2023,Low,Large,4.0
+288,289,Giorgia,Brinkley,GLDD,Basic Industries,NASDAQ,Great Lakes Dredge & Dock Corporation,229770000.0,9113.58,2,01/2/2023,Low,Medium,4.0
+309,310,Marion,Pippin,MIND,Technology,NASDAQ,"Mitcham Industries, Inc.",54280000.0,8870.85,2,01/2/2023,Low,Small,2.0
+322,323,Auria,Smissen,LGCYP,Energy,NASDAQ,Legacy Reserves LP,13080000.0,95959.91,2,01/2/2023,Very High,Small,5.0
+341,342,Jethro,Field,FORR,Consumer Services,NASDAQ,"Forrester Research, Inc.",700650000.0,73792.28,2,01/2/2023,High,Medium,3.0
+348,349,Farley,Sancho,BEDU,Consumer Services,NYSE,Bright Scholar Education Holdings Limited,1380000000.0,98879.69,2,01/2/2023,Very High,Large,4.0
+363,364,Todd,Barrowcliff,FLGT,Health Care,NASDAQ,"Fulgent Genetics, Inc.",92710000.0,98714.61,2,01/2/2023,Very High,Small,3.0
+369,370,Tawnya,Blatherwick,LDR,Capital Goods,NYSE,"Landauer, Inc.",513320000.00000006,47205.61,2,01/2/2023,Medium,Medium,4.0
+392,393,Drona,Rusbridge,ARCI,Consumer Services,NASDAQ,"Appliance Recycling Centers of America, Inc.",4390000.0,49738.01,2,01/2/2023,Medium,Small,1.0
+405,406,Phedra,Bleckly,OBCI,Consumer Durables,NASDAQ,"Ocean Bio-Chem, Inc.",37260000.0,99288.11,2,01/2/2023,Very High,Small,1.0
+409,410,Josee,Husselbee,KND,Health Care,NYSE,"Kindred Healthcare, Inc.",907720000.0,74171.85,2,01/2/2023,High,Medium,2.0
+420,421,Kyle,Danilenko,MACK,Health Care,NASDAQ,"Merrimack Pharmaceuticals, Inc.",153620000.0,9648.91,2,01/2/2023,Low,Medium,2.0
+430,431,Westbrook,Elegood,GSOL,Consumer Services,NASDAQ,Global Sources Ltd.,488080000.0,73554.57,2,01/2/2023,High,Medium,4.0
+457,458,Cher,Sherrock,KEF,,NYSE,"Korea Equity Fund, Inc.",93020000.0,8622.34,2,01/2/2023,Low,Small,3.0
+498,499,Isabelle,Maghull,ROIC,Consumer Services,NASDAQ,Retail Opportunity Investments Corp.,2150000000.0,99797.16,2,01/2/2023,Very High,Large,2.0
+568,569,Marjy,Wilbraham,ENS,Consumer Non-Durables,NYSE,Enersys,3350000000.0,9086.71,2,01/2/2023,Low,Large,3.0
+598,599,Zackariah,Vowden,EFOI,Consumer Durables,NASDAQ,"Energy Focus, Inc.",33570000.0,9783.02,2,01/2/2023,Low,Small,1.0
+615,616,Hilly,Marcum,GNRT,Transportation,NYSE,"Gener8 Maritime, Inc.",462920000.0,48846.94,2,01/2/2023,Medium,Medium,3.0
+620,621,Vallie,Rebeiro,DIS,Consumer Services,NYSE,Walt Disney Company (The),165110000000.0,64358.89,2,01/2/2023,High,Huge,2.0
+626,627,Richmond,Leetham,IFEU,,NASDAQ,iShares FTSE EPRA/NAREIT Europe Index Fund,42370000.0,72093.02,2,01/2/2023,High,Small,5.0
+629,630,Wileen,Headan,DGI,Consumer Services,NYSE,"DigitalGlobe, Inc",1960000000.0,98856.26,2,01/2/2023,Very High,Large,5.0
+633,634,Donnell,Parlet,TQQQ,,NASDAQ,ProShares UltraPro QQQ,1720000000.0,47917.48,2,01/2/2023,Medium,Large,3.0
+647,648,Luce,Blondel,CAVM,Technology,NASDAQ,"Cavium, Inc.",4480000000.0,74537.05,2,01/2/2023,High,Large,2.0
+670,671,Forester,Picott,SANM,Technology,NASDAQ,Sanmina Corporation,2830000000.0,47702.06,2,01/2/2023,Medium,Large,4.0
+684,685,Loy,Matijasevic,BONT,Consumer Services,NASDAQ,"The Bon-Ton Stores, Inc.",10540000.0,49262.09,2,01/2/2023,Medium,Small,3.0
+689,690,Hilton,Echalier,RARX,Health Care,NASDAQ,"Ra Pharmaceuticals, Inc.",480690000.0,99180.45,2,01/2/2023,Very High,Medium,4.0
+693,694,Ursola,Agget,GLBR,Finance,NASDAQ,"Global Brokerage, Inc.",12290000.0,74197.99,2,01/2/2023,High,Small,2.0
+721,722,Chrissy,Castanyer,ORCL,Technology,NYSE,Oracle Corporation,185530000000.0,44152.27,2,01/2/2023,Medium,Huge,2.0
+729,730,Arny,Wychard,NERV,Health Care,NASDAQ,"Minerva Neurosciences, Inc",356040000.0,98203.42,2,01/2/2023,Very High,Medium,5.0
+746,747,Jocelyne,Ribchester,FCNCA,Finance,NASDAQ,"First Citizens BancShares, Inc.",4470000000.0,49184.40,2,01/2/2023,Medium,Large,2.0
+749,750,Buckie,Simenon,TWTR,Technology,NYSE,"Twitter, Inc.",12180000000.0,74088.77,2,01/2/2023,High,Large,4.0
+794,795,Karon,Avramovitz,KHC,Consumer Non-Durables,NASDAQ,The Kraft Heinz Company,108870000000.0,70939.69,2,01/2/2023,High,Huge,1.0
+801,802,Morse,Vinecombe,ENS,Consumer Non-Durables,NYSE,Enersys,3350000000.0,99299.19,2,01/2/2023,Very High,Large,3.0
+805,806,Mendie,Woodstock,CORE,Consumer Non-Durables,NASDAQ,"Core-Mark Holding Company, Inc.",1590000000.0,99979.04,2,01/2/2023,Very High,Large,1.0
+823,824,Janaya,Mothersdale,GRID,,NASDAQ,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index ,21910000.0,74505.88,2,01/2/2023,High,Small,1.0
+830,831,Deonne,Podbury,AKER,Health Care,NASDAQ,Akers Biosciences Inc,11120000.0,49686.26,2,01/2/2023,Medium,Small,2.0
+867,868,Iggy,Serjeantson,CSS,Consumer Services,NYSE,"CSS Industries, Inc.",242370000.0,8625.74,2,01/2/2023,Low,Medium,5.0
+875,876,Allison,Pash,STLR,Finance,NASDAQ,Stellar Acquisition III Inc.,90190000.0,99129.78,2,01/2/2023,Very High,Small,2.0
+896,897,Bealle,Coare,ASFI,Finance,NASDAQ,"Asta Funding, Inc.",56440000.0,72561.29,2,01/2/2023,High,Small,4.0
+907,908,Shawn,Palin,OMNT,Miscellaneous,NASDAQ,"Ominto, Inc.",151540000.0,73396.07,2,01/2/2023,High,Medium,5.0
+913,914,Bessie,Gautrey,VVUS,Health Care,NASDAQ,"VIVUS, Inc.",121540000.0,45993.62,2,01/2/2023,Medium,Medium,5.0
+916,917,Agathe,Hoble,SORL,Capital Goods,NASDAQ,"SORL Auto Parts, Inc.",134750000.0,9692.69,2,01/2/2023,Low,Medium,1.0
+921,922,Ellerey,Athow,FENG,Consumer Services,NYSE,Phoenix New Media Limited,203150000.0,49434.62,2,01/2/2023,Medium,Medium,1.0
+923,924,Leila,Gilchrist,V,Miscellaneous,NYSE,Visa Inc.,217120000000.0,34556.47,2,01/2/2023,Medium,Huge,4.0
+924,925,Fonzie,Huggett,EVHC,Health Care,NYSE,Envision Healthcare Corporation,6890000000.0,74347.83,2,01/2/2023,High,Large,3.0
+927,928,Hogan,Spores,CSTE,Capital Goods,NASDAQ,Caesarstone Ltd.,1170000000.0,8662.36,2,01/2/2023,Low,Large,5.0
+939,940,Demetris,Burnsides,ASMB,Health Care,NASDAQ,"Assembly Biosciences, Inc.",377450000.0,99224.20,2,01/2/2023,Very High,Medium,3.0
+948,949,Winslow,Pentecost,QUOT,Consumer Services,NYSE,Quotient Technology Inc.,1040000000.0,49737.92,2,01/2/2023,Medium,Large,1.0
+956,957,Tadeas,Woolis,HD,Consumer Services,NYSE,"Home Depot, Inc. (The)",187270000000.0,11127.23,2,01/2/2023,Low,Huge,1.0
+971,972,Zorana,Vernalls,APTI,Technology,NASDAQ,"Apptio, Inc.",654410000.0,74931.58,2,01/2/2023,High,Medium,1.0
+975,976,Linoel,Artis,DRRX,Health Care,NASDAQ,DURECT Corporation,185980000.0,48977.73,2,01/2/2023,Medium,Medium,2.0
+980,981,Winifield,Sibbet,V,Miscellaneous,NYSE,Visa Inc.,217120000000.0,47838.95,2,01/2/2023,Medium,Huge,1.0
+17,18,Steffane,Giacopello,MRK,Health Care,NYSE,"Merck & Company, Inc.",172230000000.0,85268.38,3,01/3/2023,Very High,Huge,2.0
+40,41,Penn,Zanazzi,INTC,Technology,NASDAQ,Intel Corporation,165800000000.0,63780.91,3,01/3/2023,High,Huge,4.0
+114,115,Hervey,Moyes,TLLP,Energy,NYSE,Tesoro Logistics LP,5260000000.0,9638.11,3,01/3/2023,Low,Large,4.0
+133,134,Jerrome,Sailes,ECHO,Transportation,NASDAQ,"Echo Global Logistics, Inc.",594580000.0,49856.99,3,01/3/2023,Medium,Medium,2.0
+147,148,Arline,Croce,MAV,,NYSE,Pioneer Municipal High Income Advantage Trust,278180000.0,9352.18,3,01/3/2023,Low,Medium,3.0
+160,161,Bettye,Woolam,TM,Capital Goods,NYSE,Toyota Motor Corp Ltd Ord,156020000000.0,32917.59,3,01/3/2023,Medium,Huge,1.0
+161,162,Barnebas,Sapshed,SNY,Health Care,NYSE,Sanofi,123340000000.0,71475.09,3,01/3/2023,High,Huge,2.0
+172,173,Maribelle,Jambrozek,XCO,Energy,NYSE,EXCO Resources NL,79360000.0,7924.78,3,01/3/2023,Low,Small,3.0
+176,177,Almeta,Halahan,ROYT,Energy,NYSE,Pacific Coast Oil Trust,61730000.0,99754.65,3,01/3/2023,Very High,Small,1.0
+187,188,Rosetta,Lantiff,FAD,,NASDAQ,First Trust Multi Cap Growth AlphaDEX Fund,98940000.0,7643.54,3,01/3/2023,Low,Small,4.0
+196,197,Maritsa,Dossantos,PATK,Basic Industries,NASDAQ,"Patrick Industries, Inc.",1270000000.0,49182.58,3,01/3/2023,Medium,Large,4.0
+199,200,Stephi,Girdler,KEYS,Capital Goods,NYSE,Keysight Technologies Inc.,7040000000.0,73202.42,3,01/3/2023,High,Large,3.0
+226,227,Flss,Simakov,UNH,Health Care,NYSE,UnitedHealth Group Incorporated,175030000000.0,17656.83,3,01/3/2023,Low,Huge,2.0
+246,247,Faydra,Lawday,FSBW,Finance,NASDAQ,"FS Bancorp, Inc.",139320000.0,49918.12,3,01/3/2023,Medium,Medium,1.0
+253,254,Dougie,Divis,FLXN,Health Care,NASDAQ,"Flexion Therapeutics, Inc.",546870000.0,48000.52,3,01/3/2023,Medium,Medium,5.0
+261,262,Carlota,MattiCCI,PAA,Energy,NYSE,"Plains All American Pipeline, L.P.",17990000000.0,73912.72,3,01/3/2023,High,Large,2.0
+265,266,Reggis,Sheryn,KHC,Consumer Non-Durables,NASDAQ,The Kraft Heinz Company,108870000000.0,29722.35,3,01/3/2023,Medium,Huge,2.0
+293,294,Estel,Lohmeyer,BPT,Energy,NYSE,BP Prudhoe Bay Royalty Trust,445120000.0,99716.89,3,01/3/2023,Very High,Medium,2.0
+307,308,Orelie,Spall,MLNX,Technology,NASDAQ,"Mellanox Technologies, Ltd.",2160000000.0,98340.82,3,01/3/2023,Very High,Large,4.0
+309,310,Jarrett,Bauman,SPNC,Health Care,NASDAQ,The Spectranetics Corporation,1300000000.0,48883.70,3,01/3/2023,Medium,Large,5.0
+311,312,Batholomew,Keats,LDOS,Technology,NYSE,"Leidos Holdings, Inc.",8150000000.0,9902.23,3,01/3/2023,Low,Large,1.0
+331,332,Esdras,Olander,WETF,Finance,NASDAQ,"WisdomTree Investments, Inc.",1360000000.0,49538.72,3,01/3/2023,Medium,Large,1.0
+333,334,Zane,Royans,EVHC,Health Care,NYSE,Envision Healthcare Corporation,6890000000.0,49371.25,3,01/3/2023,Medium,Large,2.0
+345,346,Inge,Dawidowsky,CAMT,Capital Goods,NASDAQ,Camtek Ltd.,197240000.0,74129.42,3,01/3/2023,High,Medium,5.0
+349,350,Madelle,Castillou,TROV,Health Care,NASDAQ,"TrovaGene, Inc.",29240000.0,96244.27,3,01/3/2023,Very High,Small,5.0
+395,396,Livvy,Irving,FORD,Consumer Non-Durables,NASDAQ,"Forward Industries, Inc.",9570000.0,99382.92,3,01/3/2023,Very High,Small,2.0
+397,398,Harri,Jackson,WIA,,NYSE,Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd,327090000.0,9669.38,3,01/3/2023,Low,Medium,1.0
+412,413,Phebe,McKew,MSFT,Technology,NASDAQ,Microsoft Corporation,540440000000.00006,64599.58,3,01/3/2023,High,Huge,3.0
+433,434,Oberon,Shemming,BCTF,Finance,NASDAQ,"Bancorp 34, Inc.",47360000.0,97804.66,3,01/3/2023,Very High,Small,3.0
+446,447,Michaella,Kennerknecht,EACQ,Capital Goods,NASDAQ,Easterly Acquisition Corp.,251250000.0,99678.28,3,01/3/2023,Very High,Medium,3.0
+461,462,Bron,Taysbil,CXE,,NYSE,Colonial High Income Municipal Trust,165710000.0,48172.35,3,01/3/2023,Medium,Medium,4.0
+472,473,Antonino,Laxen,SNAK,Consumer Non-Durables,NASDAQ,"Inventure Foods, Inc.",83670000.0,69625.70,3,01/3/2023,High,Small,5.0
+497,498,Liz,Mechell,HXL,Basic Industries,NYSE,Hexcel Corporation,4680000000.0,98925.83,3,01/3/2023,Very High,Large,2.0
+510,511,Kenton,Bernardy,AMMA,Consumer Services,NASDAQ,"Alliance MMA, Inc.",10910000.0,96568.65,3,01/3/2023,Very High,Small,4.0
+516,517,Gaultiero,Mountfort,AKAO,Health Care,NASDAQ,"Achaogen, Inc.",890000000.0,74668.20,3,01/3/2023,High,Medium,1.0
+526,527,Huberto,Gentsch,NHI,Consumer Services,NYSE,"National Health Investors, Inc.",3200000000.0,9445.46,3,01/3/2023,Low,Large,5.0
+527,528,Gabby,Goldston,ELTK,Technology,NASDAQ,Eltek Ltd.,6800000.0,74326.92,3,01/3/2023,High,Small,2.0
+532,533,Cassandre,Odom,IVTY,Health Care,NASDAQ,"Invuity, Inc.",104390000.0,74555.12,3,01/3/2023,High,Medium,2.0
+549,550,Horacio,Christall,CREG,Miscellaneous,NASDAQ,China Recycling Energy Corporation,11630000.0,72425.08,3,01/3/2023,High,Small,3.0
+552,553,Devan,Gladebeck,ABCO,Consumer Services,NASDAQ,The Advisory Board Company,2089999999.9999998,9665.63,3,01/3/2023,Low,Large,3.0
+555,556,Javier,Pablo,ACM,Consumer Services,NYSE,AECOM,5080000000.0,98201.59,3,01/3/2023,Very High,Large,5.0
+585,586,Donny,Kacheler,SHO,Consumer Services,NYSE,"Sunstone Hotel Investors, Inc.",3650000000.0,74811.27,3,01/3/2023,High,Large,1.0
+588,589,Ramonda,Tomowicz,UVV,Consumer Services,NYSE,Universal Corporation,1680000000.0,98894.56,3,01/3/2023,Very High,Large,3.0
+597,598,Zsa zsa,O'Conor,NKTR,Health Care,NASDAQ,Nektar Therapeutics,2820000000.0,73093.40,3,01/3/2023,High,Large,4.0
+619,620,Nicko,Edmands,IFN,,NYSE,"India Fund, Inc. (The)",774330000.0,99498.54,3,01/3/2023,Very High,Medium,5.0
+630,631,Baxie,Leather,ANIP,Health Care,NASDAQ,"ANI Pharmaceuticals, Inc.",527440000.00000006,9196.66,3,01/3/2023,Low,Medium,4.0
+632,633,Jolie,Paaso,PLOW,Capital Goods,NYSE,"Douglas Dynamics, Inc.",689020000.0,8964.96,3,01/3/2023,Low,Medium,5.0
+662,663,Mirabella,Liversley,EPZM,Health Care,NASDAQ,"Epizyme, Inc.",796590000.0,99543.14,3,01/3/2023,Very High,Medium,4.0
+665,666,Ninette,Roalfe,EFX,Finance,NYSE,"Equifax, Inc.",17140000000.0,72971.97,3,01/3/2023,High,Large,5.0
+681,682,Archibald,Cockrill,LLL,Technology,NYSE,"L3 Technologies, Inc.",13000000000.0,979.37,3,01/3/2023,Low,Large,2.0
+697,698,Etienne,Hazleton,HON,Capital Goods,NYSE,Honeywell International Inc.,102630000000.0,77741.94,3,01/3/2023,Very High,Huge,3.0
+705,706,Pansie,Kloska,ZBIO,,NASDAQ,ProShares UltraPro Short NASDAQ Biotechnology,6580000.0,70276.45,3,01/3/2023,High,Small,4.0
+711,712,Angelina,Lotte,AAPL,Technology,NASDAQ,Apple Inc.,741770000000.0,72661.97,3,01/3/2023,High,Huge,1.0
+713,714,Christel,Genthner,NVFY,Consumer Durables,NASDAQ,"Nova Lifestyle, Inc",37750000.0,5026.22,3,01/3/2023,Low,Small,5.0
+722,723,Adena,Di Franceschi,TOWR,Capital Goods,NYSE,"Tower International, Inc.",446680000.0,48380.45,3,01/3/2023,Medium,Medium,3.0
+726,727,De witt,Hazel,RMCF,Consumer Non-Durables,NASDAQ,"Rocky Mountain Chocolate Factory, Inc.",68380000.0,47373.07,3,01/3/2023,Medium,Small,4.0
+739,740,Babbette,Cusack,DLNG,Consumer Services,NYSE,Dynagas LNG Partners LP,517440000.00000006,99739.70,3,01/3/2023,Very High,Medium,1.0
+751,752,Aili,Phillput,WFC,Finance,NYSE,Wells Fargo & Company,269310000000.0,23692.96,3,01/3/2023,Low,Huge,1.0
+785,786,Hillyer,Brownsett,NVS,Health Care,NYSE,Novartis AG,191210000000.0,99934.21,3,01/3/2023,Very High,Huge,1.0
+838,839,Deni,Picopp,VRIG,,NASDAQ,PowerShares Variable Rate Investment Grade Portfolio,69290000.0,74913.42,3,01/3/2023,High,Small,1.0
+855,856,Omero,Tasseler,STRM,Technology,NASDAQ,"Streamline Health Solutions, Inc.",21440000.0,46658.42,3,01/3/2023,Medium,Small,5.0
+867,868,Karrah,Tavener,TUTT,,NASDAQ,Tuttle Tactical Management U.S. Core ETF,54070000.0,47968.81,3,01/3/2023,Medium,Small,3.0
+911,912,Avery,Fuente,OSG,Transportation,NYSE,"Overseas Shipholding Group, Inc.",192450000.0,74348.08,3,01/3/2023,High,Medium,3.0
+912,913,Lib,Narramor,CAL,Consumer Non-Durables,NYSE,"Caleres, Inc.",1150000000.0,99457.94,3,01/3/2023,Very High,Large,1.0
+927,928,Bailie,Laslett,INOV,Technology,NASDAQ,"Inovalon Holdings, Inc.",1990000000.0,49224.41,3,01/3/2023,Medium,Large,3.0
+941,942,Theo,Cawkwell,ICAD,Health Care,NASDAQ,icad inc.,68610000.0,9832.00,3,01/3/2023,Low,Small,1.0
+965,966,Dalenna,Armand,SBOT,Health Care,NASDAQ,"Stellar Biotechnologies, Inc.",11350000.0,49483.58,3,01/3/2023,Medium,Small,1.0
+966,967,Serena,Kovalski,ORCL,Technology,NYSE,Oracle Corporation,185530000000.0,62188.07,3,01/3/2023,High,Huge,5.0
+970,971,Legra,Souter,MTP,Health Care,NASDAQ,Midatech Pharma PLC,65989999.99999999,8094.73,3,01/3/2023,Low,Small,2.0
+976,977,Wendeline,Trathan,ARCW,Capital Goods,NASDAQ,"ARC Group Worldwide, Inc.",61780000.0,48341.36,3,01/3/2023,Medium,Small,2.0
+977,978,Garald,Crollman,MGPI,Consumer Non-Durables,NASDAQ,"MGP Ingredients, Inc.",865570000.0,9521.13,3,01/3/2023,Low,Medium,2.0
+995,996,Flo,Forton,OXFD,Health Care,NASDAQ,Oxford Immunotec Global PLC,344130000.0,74208.39,3,01/3/2023,High,Medium,4.0
+5,6,Vladamir,Frew,FITB,Finance,NASDAQ,Fifth Third Bancorp,19110000000.0,9543.43,11,01/11/2023,Low,Large,1.0
+6,7,Debora,Jehaes,PGTI,Capital Goods,NASDAQ,"PGT Innovations, Inc.",610360000.0,99504.15,11,01/11/2023,Very High,Medium,4.0
+78,79,Hali,Chuck,GRIF,Finance,NASDAQ,"Griffin Industrial Realty, Inc.",157670000.0,8453.17,11,01/11/2023,Low,Medium,5.0
+104,105,Oliy,Bingley,CMCSA,Consumer Services,NASDAQ,Comcast Corporation,195790000000.0,51843.86,11,01/11/2023,High,Huge,5.0
+111,112,Abbye,Siddle,JSYN,Finance,NASDAQ,Jensyn Acquistion Corp.,52880000.0,97741.45,11,01/11/2023,Very High,Small,4.0
+125,126,Celinda,Dafydd,MBFIP,Finance,NASDAQ,MB Financial Inc.,104920000.0,72881.21,11,01/11/2023,High,Medium,5.0
+129,130,Trula,Sailer,DTUS,Finance,NASDAQ,iPath US Treasury 2-year Bear ETN,8000000.0,981.92,11,01/11/2023,Low,Small,1.0
+137,138,Kerwin,Circuit,FCN,Consumer Services,NYSE,"FTI Consulting, Inc.",1340000000.0,73375.47,11,01/11/2023,High,Large,3.0
+147,148,Sylvester,Chapleo,OCRX,Health Care,NASDAQ,"Ocera Therapeutics, Inc.",25450000.0,48633.57,11,01/11/2023,Medium,Small,3.0
+189,190,Bethanne,Fowle,YRD,Finance,NYSE,Yirendai Ltd.,1410000000.0,9054.49,11,01/11/2023,Low,Large,5.0
+208,209,Goddart,Canner,ICFI,Consumer Services,NASDAQ,"ICF International, Inc.",882650000.0,48226.04,11,01/11/2023,Medium,Medium,4.0
+213,214,Leigh,Razzell,IDRA,Health Care,NASDAQ,"Idera Pharmaceuticals, Inc.",237150000.0,49278.33,11,01/11/2023,Medium,Medium,1.0
+216,217,Ariana,Sulman,PN,Finance,NYSE,"Patriot National, Inc.",64459999.99999999,49231.68,11,01/11/2023,Medium,Small,2.0
+239,240,Lionel,Carreyette,MRTN,Transportation,NASDAQ,"Marten Transport, Ltd.",905460000.0,73840.42,11,01/11/2023,High,Medium,1.0
+242,243,Roxine,D'Elias,PG,Basic Industries,NYSE,Procter & Gamble Company (The),229320000000.0,68764.33,11,01/11/2023,High,Huge,2.0
+244,245,Padraic,Doerling,RELY,Consumer Non-Durables,NASDAQ,"Real Industry, Inc. ",90880000.0,99981.80,11,01/11/2023,Very High,Small,1.0
+274,275,Caria,Cockburn,INTC,Technology,NASDAQ,Intel Corporation,165800000000.0,39922.37,11,01/11/2023,Medium,Huge,2.0
+297,298,Blondy,Duggon,FMY,,NYSE,First Trust,59410000.0,73973.29,11,01/11/2023,High,Small,3.0
+300,301,Berky,Backen,ADRO,Health Care,NASDAQ,"Aduro Biotech, Inc.",737590000.0,8837.52,11,01/11/2023,Low,Medium,4.0
+301,302,Pamella,Conrart,CHL,Public Utilities,NYSE,China Mobile (Hong Kong) Ltd.,220680000000.0,29071.16,11,01/11/2023,Medium,Huge,3.0
+306,307,Finlay,Warlton,DJCO,Consumer Services,NASDAQ,Daily Journal Corp. (S.C.),295190000.0,9464.45,11,01/11/2023,Low,Medium,1.0
+328,329,Mona,Fills,HMN,Finance,NYSE,Horace Mann Educators Corporation,1590000000.0,906.91,11,01/11/2023,Low,Large,4.0
+334,335,Colman,Lewens,SNDX,Health Care,NASDAQ,"Syndax Pharmaceuticals, Inc.",204470000.0,99626.29,11,01/11/2023,Very High,Medium,2.0
+350,351,Virgilio,Sindall,AKR,Consumer Services,NYSE,Acadia Realty Trust,2350000000.0,9521.54,11,01/11/2023,Low,Large,2.0
+391,392,Leonora,Darell,WHLM,Consumer Services,NASDAQ,"Wilhelmina International, Inc.",38750000.0,969.42,11,01/11/2023,Low,Small,2.0
+413,414,Erhard,Codling,R,Consumer Services,NYSE,"Ryder System, Inc.",3600000000.0,49457.52,11,01/11/2023,Medium,Large,2.0
+417,418,Querida,Benka,NDLS,Consumer Services,NASDAQ,Noodles & Company,154070000.0,9206.00,11,01/11/2023,Low,Medium,3.0
+420,421,Marge,Hamper,AGND,,NASDAQ,WisdomTree Barclays Negative Duration U.S. Aggregate Bond Fund,12990000.0,74862.48,11,01/11/2023,High,Small,1.0
+424,425,Kenon,Piell,DHX,Miscellaneous,NYSE,"DHI Group, Inc.",128990000.00000001,72988.63,11,01/11/2023,High,Medium,4.0
+439,440,Katey,Tousey,MO,Consumer Non-Durables,NYSE,Altria Group,149280000000.0,64346.84,11,01/11/2023,High,Huge,3.0
+449,450,Lynnea,O'Hear,IFEU,,NASDAQ,iShares FTSE EPRA/NAREIT Europe Index Fund,42370000.0,47671.06,11,01/11/2023,Medium,Small,4.0
+461,462,Clayton,Santacrole,FSBW,Finance,NASDAQ,"FS Bancorp, Inc.",139320000.0,9344.39,11,01/11/2023,Low,Medium,2.0
+477,478,Dani,Neem,KANG,Health Care,NASDAQ,"iKang Healthcare Group, Inc.",980680000.0,99531.82,11,01/11/2023,Very High,Medium,3.0
+500,501,Harwilll,Escreet,CHFS,Health Care,NASDAQ,"CHF Solutions, Inc.",5220000.0,97660.22,11,01/11/2023,Very High,Small,5.0
+509,510,Sutherland,Roblett,VGSH,,NASDAQ,Vanguard Short-Term Government ETF,1460000000.0,73877.62,11,01/11/2023,High,Large,2.0
+521,522,Jarrad,Stallibrass,VXUS,,NASDAQ,Vanguard Total International Stock ETF,8570000000.0,73332.32,11,01/11/2023,High,Large,4.0
+579,580,Ninette,Finnemore,RUTH,Consumer Services,NASDAQ,"Ruth's Hospitality Group, Inc.",708870000.0,48069.14,11,01/11/2023,Medium,Medium,5.0
+593,594,Flory,Wase,LKOR,,NASDAQ,FlexShares Credit-Scored US Long Corporate Bond Index Fund,13340000.0,98672.32,11,01/11/2023,Very High,Small,3.0
+600,601,Dyna,Comber,TIF,Consumer Services,NYSE,Tiffany & Co.,11480000000.0,73225.24,11,01/11/2023,High,Large,5.0
+641,642,Krispin,Kareman,CHSCN,Consumer Services,NASDAQ,CHS Inc,497620000.0,99252.74,11,01/11/2023,Very High,Medium,5.0
+652,653,Dorisa,Snasel,RESN,Technology,NASDAQ,Resonant Inc.,57730000.0,8859.40,11,01/11/2023,Low,Small,3.0
+657,658,Duffy,Sooley,TEP,Public Utilities,NYSE,"Tallgrass Energy Partners, LP",3400000000.0,74452.16,11,01/11/2023,High,Large,1.0
+662,663,Channa,Kimbell,JCE,,NYSE,Nuveen Core Equity Alpha Fund,234720000.0,99835.42,11,01/11/2023,Very High,Medium,1.0
+672,673,Reinold,Buttle,PSCF,,NASDAQ,PowerShares S&P SmallCap Financials Portfolio,243510000.0,73297.71,11,01/11/2023,High,Medium,3.0
+673,674,Shanda,Soares,INTC,Technology,NASDAQ,Intel Corporation,165800000000.0,27192.54,11,01/11/2023,Medium,Huge,4.0
+720,721,Maude,Serris,CMCSA,Consumer Services,NASDAQ,Comcast Corporation,195790000000.0,71159.65,11,01/11/2023,High,Huge,1.0
+722,723,Perren,Eggleton,EMMS,Consumer Services,NASDAQ,Emmis Communications Corporation,39090000.0,8806.29,11,01/11/2023,Low,Small,4.0
+724,725,Merry,Sawford,TNDM,Health Care,NASDAQ,"Tandem Diabetes Care, Inc.",44420000.0,72231.68,11,01/11/2023,High,Small,4.0
+727,728,Horten,Domenichini,HSGX,Health Care,NASDAQ,Histogenics Corporation,35470000.0,8711.39,11,01/11/2023,Low,Small,5.0
+746,747,Angelika,Etchingham,LOPE,Consumer Services,NASDAQ,"Grand Canyon Education, Inc.",3900000000.0,98706.05,11,01/11/2023,Very High,Large,3.0
+767,768,Abigale,Panchin,QCP,Consumer Services,NYSE,"Quality Care Properties, Inc.",1650000000.0,99802.33,11,01/11/2023,Very High,Large,1.0
+790,791,Evvie,Nayer,UBOH,Finance,NASDAQ,"United Bancshares, Inc.",69910000.0,74385.30,11,01/11/2023,High,Small,2.0
+796,797,Bell,Thumnel,ALJJ,Miscellaneous,NASDAQ,"ALJ Regional Holdings, Inc.",113530000.0,48353.48,11,01/11/2023,Medium,Medium,3.0
+808,809,Renaud,Hardeman,OLD,,NASDAQ,The Long-Term Care ETF,2700000.0,49686.71,11,01/11/2023,Medium,Small,1.0
+822,823,Gwyneth,Connochie,GALE,Health Care,NASDAQ,"Galena Biopharma, Inc.",20660000.0,99001.84,11,01/11/2023,Very High,Small,2.0
+829,830,Thedric,Jirus,EVT,,NYSE,Eaton Vance Tax Advantaged Dividend Income Fund,1600000000.0,98601.19,11,01/11/2023,Very High,Large,4.0
+846,847,Lissie,Stoile,IPG,Technology,NYSE,"Interpublic Group of Companies, Inc. (The)",9640000000.0,48191.92,11,01/11/2023,Medium,Large,5.0
+848,849,Ciel,Puzey,PLOW,Capital Goods,NYSE,"Douglas Dynamics, Inc.",689020000.0,48873.06,11,01/11/2023,Medium,Medium,2.0
+874,875,Tally,Laity,SOHO,Consumer Services,NASDAQ,Sotherly Hotels Inc.,91070000.0,47631.42,11,01/11/2023,Medium,Small,5.0
+875,876,Candace,Tokell,VZ,Public Utilities,NYSE,Verizon Communications Inc.,190220000000.0,61608.85,11,01/11/2023,High,Huge,4.0
+895,896,Edi,Geany,IXUS,,NASDAQ,iShares Core MSCI Total International Stock ETF,6260000000.0,49060.11,11,01/11/2023,Medium,Large,3.0
+912,913,Kirbee,Carcass,L,Finance,NYSE,Loews Corporation,16210000000.0,98278.82,11,01/11/2023,Very High,Large,5.0
+918,919,Loleta,Uridge,TRP,Public Utilities,NYSE,TransCanada Corporation,41810000000.0,9228.60,11,01/11/2023,Low,Large,3.0
+931,932,Ginevra,Schaumann,FAST,Consumer Services,NASDAQ,Fastenal Company,12840000000.0,48670.86,11,01/11/2023,Medium,Large,4.0
+959,960,Rochella,MacElane,BFK,,NYSE,BlackRock Municipal Income Trust,638920000.0,73646.68,11,01/11/2023,High,Medium,2.0
+965,966,Carlie,Cardow,PXS,Transportation,NASDAQ,Pyxis Tankers Inc.,26870000.0,71717.35,11,01/11/2023,High,Small,5.0
+981,982,Jarrod,Plaskitt,SBS,Public Utilities,NYSE,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp,6550000000.0,98817.08,11,01/11/2023,Very High,Large,2.0
+989,990,Zacherie,Pollastrino,LAMR,Consumer Services,NASDAQ,Lamar Advertising Company,7220000000.0,49863.44,11,01/11/2023,Medium,Large,1.0
+994,995,Staci,Molyneaux,BP,Energy,NYSE,BP p.l.c.,117990000000.0,48834.11,11,01/11/2023,Medium,Huge,1.0
+11,12,Othilia,Ortler,FLOW,Technology,NYSE,"SPX FLOW, Inc.",1640000000.0,9811.38,,01/1/2023,Low,Large,3.0
+53,54,Jany,Hancke,CSOD,Technology,NASDAQ,"Cornerstone OnDemand, Inc.",2089999999.9999998,74079.42,,01/1/2023,High,Large,5.0
+71,72,Lek,Kulis,EDD,,NYSE,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",544390000.0,9699.45,,01/1/2023,Low,Medium,1.0
+106,107,Chico,De Maria,CBA           ,,NYSE,ClearBridge American Energy MLP Fund Inc.,508590000.0,48507.84,,01/1/2023,Medium,Medium,5.0
+119,120,Nealson,Hosburn,VSTM,Health Care,NASDAQ,"Verastem, Inc.",74720000.0,74416.07,,01/1/2023,High,Small,3.0
+124,125,Margret,Harry,SHOP,Technology,NYSE,Shopify Inc.,7350000000.0,49796.86,,01/1/2023,Medium,Large,1.0
+147,148,Mickie,Brack,AR,Energy,NYSE,Antero Resources Corporation,7130000000.0,49504.15,,01/1/2023,Medium,Large,3.0
+153,154,Sherline,Vowels,IZEA,Consumer Services,NASDAQ,IZEA Inc.,12380000.0,48496.19,,01/1/2023,Medium,Small,1.0
+160,161,Rudiger,Mathieson,FLKS,Health Care,NASDAQ,"Flex Pharma, Inc.",64330000.0,96663.47,,01/1/2023,Very High,Small,3.0
+185,186,Dur,Presnall,BP,Energy,NYSE,BP p.l.c.,117990000000.0,86921.67,,01/1/2023,Very High,Huge,1.0
+187,188,Cherey,Tollemache,BA,Capital Goods,NYSE,Boeing Company (The),118570000000.0,15340.41,,01/1/2023,Low,Huge,3.0
+192,193,Sibley,Toffel,APPS,Miscellaneous,NASDAQ,"Digital Turbine, Inc.",69300000.0,7931.38,,01/1/2023,Low,Small,2.0
+203,204,Augustina,Pyser,ATRA,Health Care,NASDAQ,"Atara Biotherapeutics, Inc.",371140000.0,9045.58,,01/1/2023,Low,Medium,4.0
+206,207,Dyanna,Buckthorp,HLS,Health Care,NYSE,HealthSouth Corporation,4240000000.0,99572.76,,01/1/2023,Very High,Large,2.0
+233,234,Sharyl,Pretor,SLF,Finance,NYSE,Sun Life Financial Inc.,20990000000.0,99652.96,,01/1/2023,Very High,Large,1.0
+257,258,Sabra,Windrus,KCAP,,NASDAQ,"KCAP Financial, Inc.",128800000.00000001,99956.14,,01/1/2023,Very High,Medium,1.0
+263,264,Janel,Bortolotti,RY,Finance,NYSE,Royal Bank Of Canada,103480000000.0,3052.98,,01/1/2023,Low,Huge,1.0
+279,280,Thalia,Crowson,FEM,,NASDAQ,First Trust Emerging Markets AlphaDEX Fund,274060000.0,98925.10,,01/1/2023,Very High,Medium,3.0
+294,295,Normie,Simms,EGT,Consumer Durables,NASDAQ,Entertainment Gaming Asia Incorporated,33920000.0,43712.69,,01/1/2023,Medium,Small,4.0
+296,297,Philippa,Layton,CAMT,Capital Goods,NASDAQ,Camtek Ltd.,197240000.0,98851.52,,01/1/2023,Very High,Medium,5.0
+330,331,Meris,Dalliwater,FGP,Consumer Services,NYSE,"Ferrellgas Partners, L.P.",508110000.0,49493.75,,01/1/2023,Medium,Medium,2.0
+346,347,Andros,Scholl,OTTW,Finance,NASDAQ,"Ottawa Bancorp, Inc.",48540000.0,7409.09,,01/1/2023,Low,Small,4.0
+357,358,Sarajane,Brunelleschi,ELTK,Technology,NASDAQ,Eltek Ltd.,6800000.0,96189.86,,01/1/2023,Very High,Small,4.0
+370,371,Marnie,Glozman,WLFC,Consumer Durables,NASDAQ,Willis Lease Finance Corporation,170650000.0,48648.41,,01/1/2023,Medium,Medium,4.0
+401,402,Natassia,Fackney,AUO,Technology,NYSE,AU Optronics Corp,3900000000.0,9911.68,,01/1/2023,Low,Large,2.0
+414,415,Maxi,Westhoff,LUX,Health Care,NYSE,"Luxottica Group, S.p.A.",29050000000.0,49426.81,,01/1/2023,Medium,Large,4.0
+422,423,Frederic,Marcome,BLH,,NYSE,Blackrock New York Municipal 2018 Term Trust,53990000.0,74802.50,,01/1/2023,High,Small,1.0
+424,425,Bernetta,Garshore,OSK,Capital Goods,NYSE,Oshkosh Corporation,5070000000.0,74935.82,,01/1/2023,High,Large,2.0
+430,431,Morley,Bogey,FCAN,,NASDAQ,First Trust Canada AlphaDEX Fund,5610000.0,99610.74,,01/1/2023,Very High,Small,1.0
+540,541,Darla,Wilce,MSFG,Finance,NASDAQ,"MainSource Financial Group, Inc.",861230000.0,49784.38,,01/1/2023,Medium,Medium,1.0
+563,564,Elbert,Cox,PKOH,Capital Goods,NASDAQ,Park-Ohio Holdings Corp.,480350000.0,49364.16,,01/1/2023,Medium,Medium,3.0
+580,581,Romain,Hemms,ANTM,Health Care,NYSE,"Anthem, Inc.",50340000000.0,99259.06,,01/1/2023,Very High,Large,5.0
+582,583,Clifford,Sherrington,JOUT,Consumer Non-Durables,NASDAQ,Johnson Outdoors Inc.,440370000.0,9160.97,,01/1/2023,Low,Medium,3.0
+609,610,Kellia,Starking,OPHT,Health Care,NASDAQ,Ophthotech Corporation,93930000.0,74136.15,,01/1/2023,High,Small,5.0
+627,628,Atalanta,Pascall,HIHO,Capital Goods,NASDAQ,Highway Holdings Limited,12900000.0,45683.50,,01/1/2023,Medium,Small,3.0
+631,632,Anatol,Povey,JCOM,Technology,NASDAQ,"j2 Global, Inc.",4230000000.0000005,9949.83,,01/1/2023,Low,Large,1.0
+632,633,Dalton,Avesque,AETI,Energy,NASDAQ,"American Electric Technologies, Inc.",12310000.0,74611.89,,01/1/2023,High,Small,2.0
+670,671,Barron,Scawton,SWX,Public Utilities,NYSE,"Southwest Gas Holdings, Inc.",3700000000.0,8322.22,,01/1/2023,Low,Large,5.0
+675,676,Jere,Cofax,CADE,Finance,NYSE,Cadence Bancorporation,1890000000.0,9223.60,,01/1/2023,Low,Large,4.0
+682,683,Hercules,Tinner,LPTX,Health Care,NASDAQ,"LEAP THERAPEUTICS, INC.",54950000.0,43500.13,,01/1/2023,Medium,Small,5.0
+688,689,Kearney,Rodenhurst,FTAI,,NYSE,Fortress Transportation and Infrastructure Investors LLC,1190000000.0,49694.92,,01/1/2023,Medium,Large,2.0
+709,710,Doyle,Gillice,GAIA,Consumer Services,NASDAQ,"Gaia, Inc.",167440000.0,7736.75,,01/1/2023,Low,Medium,5.0
+714,715,Jeanne,Ugolini,PLAY,Consumer Services,NASDAQ,"Dave & Buster's Entertainment, Inc.",2840000000.0,74621.72,,01/1/2023,High,Large,3.0
+727,728,Cassandre,Gravells,MN,Finance,NYSE,"Manning & Napier, Inc.",63230000.0,95514.58,,01/1/2023,Very High,Small,5.0
+734,735,Thorndike,Marchi,LLEX,Energy,NASDAQ,"Lilis Energy, Inc.",267730000.00000003,98911.08,,01/1/2023,Very High,Medium,4.0
+740,741,Peta,Duff,KMG,Basic Industries,NYSE,"KMG Chemicals, Inc.",581400000.0,73116.32,,01/1/2023,High,Medium,5.0
+771,772,Minda,Trueman,EXA,Technology,NASDAQ,Exa Corporation,203270000.0,74152.06,,01/1/2023,High,Medium,2.0
+790,791,Violet,Popov,XOM,Energy,NYSE,Exxon Mobil Corporation,353770000000.0,39345.93,,01/1/2023,Medium,Huge,1.0
+793,794,Merrick,Seel,EPIX,Health Care,NASDAQ,ESSA Pharma Inc.,19790000.0,98758.62,,01/1/2023,Very High,Small,2.0
+839,840,Anallese,Bartoli,BWP,Public Utilities,NYSE,Boardwalk Pipeline Partners L.P.,4380000000.0,49357.51,,01/1/2023,Medium,Large,5.0
+849,850,Walden,Rossetti,APPS,Miscellaneous,NASDAQ,"Digital Turbine, Inc.",69300000.0,7702.97,,01/1/2023,Low,Small,3.0
+864,865,Farand,Tutchener,EVBS,Finance,NASDAQ,"Eastern Virginia Bankshares, Inc.",142790000.0,74337.53,,01/1/2023,High,Medium,1.0
+867,868,Angelika,Shurman,DOC,Consumer Services,NYSE,Physicians Realty Trust,3260000000.0,74155.03,,01/1/2023,High,Large,4.0
+868,869,Annnora,Holliar,RPRX,Health Care,NASDAQ,Repros Therapeutics Inc.,9140000.0,74395.33,,01/1/2023,High,Small,4.0
+872,873,Linus,Duinbleton,EGO,Basic Industries,NYSE,Eldorado Gold Corporation,1970000000.0,99358.56,,01/1/2023,Very High,Large,4.0
+902,903,Hamlen,Estevez,FPL,,NYSE,First Trust New Opportunities MLP & Energy Fund,296280000.0,9639.52,,01/1/2023,Low,Medium,2.0
+914,915,Lamar,Pien,KEX,Consumer Services,NYSE,Kirby Corporation,3480000000.0,99539.57,,01/1/2023,Very High,Large,3.0
+916,917,Kacie,Guiel,JPI,,NYSE,Nuveen Preferred and Income Term Fund,560060000.0,73970.74,,01/1/2023,High,Medium,3.0
+924,925,Berny,McGerr,CWAY,Finance,NASDAQ,"Coastway Bancorp, Inc.",91140000.0,47391.07,,01/1/2023,Medium,Small,2.0
+952,953,Briana,Rusbridge,MEIP,Health Care,NASDAQ,"MEI Pharma, Inc.",73910000.0,6162.03,,01/1/2023,Low,Small,5.0
+953,954,Salem,Unger,MNGA,Technology,NASDAQ,MagneGas Corporation,7870000.0,9066.57,,01/1/2023,Low,Small,1.0
+954,955,Cortney,Sorro,CCN,Finance,NASDAQ,CardConnect Corp.,472080000.0,99811.53,,01/1/2023,Very High,Medium,2.0
+965,966,Artemas,Franzini,A,Capital Goods,NYSE,"Agilent Technologies, Inc.",19120000000.0,74995.16,,01/1/2023,High,Large,1.0
+985,986,Wenonah,Bancroft,JNJ,Health Care,NYSE,Johnson & Johnson,361920000000.0,27289.36,,01/1/2023,Medium,Huge,2.0
+988,989,Odele,Binnall,UNH,Health Care,NYSE,UnitedHealth Group Incorporated,175030000000.0,23687.36,,01/1/2023,Low,Huge,2.0
+999,1000,Lin,Rosgen,GPAC,Health Care,NASDAQ,Global Partner Acquisition Corp.,193670000.0,73954.07,,01/1/2023,High,Medium,4.0
